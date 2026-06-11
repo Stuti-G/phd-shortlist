@@ -1,0 +1,34 @@
+{
+  "student_id": "106419",
+  "education_history": [
+    {
+      "degree": "B.A. Psychology",
+      "institution": "University of Delhi",
+      "grade": "8.7/10",
+      "thesis": "Coping mechanisms and post-traumatic stress in disaster survivors"
+    },
+    {
+      "degree": "M.Sc. Clinical Psychology",
+      "institution": "Tata Institute of Social Sciences",
+      "grade": "8.9/10",
+      "thesis": "PTSD trajectories among veterans and first responders"
+    }
+  ],
+  "skills": ["clinical interviewing", "R", "SPSS", "mixed-methods", "ethnography"],
+  "projects": [
+    "Longitudinal study of PTSD recovery in flood survivors",
+    "Field ethnography of Himalayan pilgrimage and wellbeing"
+  ],
+  "publications": [
+    "Sharma et al. (2024), Trauma narratives among disaster survivors, J. Trauma Studies"
+  ],
+  "research_interests": [
+    "PTSD and trauma in veterans and first responders",
+    "Mental health interventions for disaster survivors",
+    "Anthropology of Himalayan pilgrimage and wellbeing"
+  ],
+  "target_countries": ["AU", "US"],
+  "target_intake": "Fall 2026",
+  "intro_call_summary": "Strong clinical background, wants a supervisor doing applied PTSD intervention research, ideally with fieldwork. Open to medical-anthropology framing for the pilgrimage interest. International student, needs funded positions and is not eligible for domestic-only schemes.",
+  "raw_resume_text": "Clinical psychologist by training... PTSD... disaster mental health... Himalayan fieldwork..."
+}

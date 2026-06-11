@@ -1,0 +1,6 @@
+requests>=2.31
+pydantic>=2.6
+sentence-transformers>=2.6
+numpy>=1.26
+python-dotenv>=1.0
+tenacity>=8.2

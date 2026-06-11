@@ -1,0 +1,12 @@
+{
+  "student_id": "test",
+  "education_history": [{"degree": "M.Sc. Clinical Psychology", "institution": "TISS"}],
+  "skills": ["clinical interviewing"],
+  "projects": [],
+  "publications": [],
+  "research_interests": ["PTSD in military veterans"],
+  "target_countries": ["AU"],
+  "target_intake": "Fall 2026",
+  "intro_call_summary": "test run",
+  "raw_resume_text": "test"
+}

@@ -1,0 +1,2193 @@
+{
+  "meta": {
+    "student_id": "test",
+    "generated_at": "2026-06-11T19:25:09.122238+00:00",
+    "target_countries": [
+      "AU"
+    ],
+    "stated_areas": [
+      "PTSD in military veterans"
+    ],
+    "total_candidates_retrieved": 1362,
+    "total_after_filters": 62,
+    "llm_provider": "ollama",
+    "pipeline_version": "0.1.0"
+  },
+  "supervisors": [
+    {
+      "supervisor_id": "A5075322672",
+      "name": "Jennie Ponsford",
+      "institution": "Monash University",
+      "country": "AU",
+      "contact_email": null,
+      "research_focus": "Traumatic Brain Injury Research, Traumatic Brain Injury and Neurovascular Disturbances, Stroke Rehabilitation and Recovery, Trauma and Emergency Care Studies, Cardiac Arrest and Resuscitation",
+      "matched_area": "PTSD in military veterans",
+      "tier": "target",
+      "score": 0.963,
+      "papers": [
+        {
+          "title": "Diminished white matter integrity four decades after traumatic brain injury in Vietnam War veterans",
+          "year": 2021,
+          "doi": "https://doi.org/10.52095/gp.2021.8112",
+          "openalex_id": "https://openalex.org/W3157767240",
+          "url": "https://doi.org/10.52095/gp.2021.8112",
+          "is_last_author": false
+        },
+        {
+          "title": "Effectiveness of Pharmacotherapy for Depression after Adult Traumatic Brain Injury: an Umbrella Review",
+          "year": 2022,
+          "doi": "https://doi.org/10.1007/s11065-022-09543-6",
+          "openalex_id": "https://openalex.org/W4282835093",
+          "url": "https://doi.org/10.1007/s11065-022-09543-6",
+          "is_last_author": true
+        },
+        {
+          "title": "Toward a global and reproducible science for brain imaging in neurotrauma: the ENIGMA adult moderate/severe traumatic brain injury working group",
+          "year": 2020,
+          "doi": "https://doi.org/10.1007/s11682-020-00313-7",
+          "openalex_id": "https://openalex.org/W3049594523",
+          "url": "https://doi.org/10.1007/s11682-020-00313-7",
+          "is_last_author": false
+        },
+        {
+          "title": "Effectiveness of Non-Pharmacological Interventions for Agitation during Post-Traumatic Amnesia following Traumatic Brain Injury: A Systematic Review",
+          "year": 2022,
+          "doi": "https://doi.org/10.1007/s11065-022-09544-5",
+          "openalex_id": "https://openalex.org/W4281778758",
+          "url": "https://doi.org/10.1007/s11065-022-09544-5",
+          "is_last_author": false
+        }
+      ],
+      "grants": [
+        {
+          "title": "Brains and minds in transition: The dark side of neuroplasticity during sensitive life phases",
+          "funder": "European Commission",
+          "funder_country": null,
+          "award_id": "802998",
+          "funding_type": "research",
+          "url": "https://cordis.europa.eu/project/id/802998"
+        }
+      ],
+      "linked_programs": [],
+      "why_match": "Your focus on PTSD in military veterans intersects with my research on 'Diminished white matter integrity four decades after traumatic brain injury', which explored the long-term effects of TBI. I believe our collaboration could shed light on the complex relationships between trauma, neuroplasticity, and mental health outcomes."
+    },
+    {
+      "supervisor_id": "A5079370099",
+      "name": "David Forbes",
+      "institution": "The University of Melbourne",
+      "country": "AU",
+      "contact_email": null,
+      "research_focus": "Posttraumatic Stress Disorder Research, Migration, Health and Trauma, Resilience and Mental Health, Traumatic Brain Injury Research, Child Abuse and Trauma",
+      "matched_area": "PTSD in military veterans",
+      "tier": "target",
+      "score": 0.925,
+      "papers": [
+        {
+          "title": "Massed <i>v</i>. standard prolonged exposure therapy for PTSD in military personnel and veterans: 12-month follow-up of a non-inferiority randomised controlled trial",
+          "year": 2023,
+          "doi": "https://doi.org/10.1017/s0033291723000405",
+          "openalex_id": "https://openalex.org/W4324018717",
+          "url": "https://doi.org/10.1017/s0033291723000405",
+          "is_last_author": true
+        },
+        {
+          "title": "Problem anger in veterans and military personnel: Prevalence, predictors, and associated harms of suicide and violence",
+          "year": 2022,
+          "doi": "https://doi.org/10.1016/j.jpsychires.2022.04.004",
+          "openalex_id": "https://openalex.org/W4223898773",
+          "url": "https://doi.org/10.1016/j.jpsychires.2022.04.004",
+          "is_last_author": true
+        },
+        {
+          "title": "A systematic review of treatments for problem anger in veteran and military populations with PTSD",
+          "year": 2023,
+          "doi": "https://doi.org/10.1016/j.avb.2023.101837",
+          "openalex_id": "https://openalex.org/W4360604663",
+          "url": "https://doi.org/10.1016/j.avb.2023.101837",
+          "is_last_author": false
+        },
+        {
+          "title": "Magnitude of problematic anger and its predictors in the Millennium Cohort",
+          "year": 2020,
+          "doi": "https://doi.org/10.1186/s12889-020-09206-2",
+          "openalex_id": "https://openalex.org/W3045583203",
+          "url": "https://doi.org/10.1186/s12889-020-09206-2",
+          "is_last_author": false
+        }
+      ],
+      "grants": [
+        {
+          "title": "Optimising mental health and quality of life for Australia’s military personnel and veterans with PTSD",
+          "funder": "National Health and Medical Research Council",
+          "funder_country": null,
+          "award_id": "1110932",
+          "funding_type": "grant",
+          "url": "https://openalex.org/G5223721830"
+        }
+      ],
+      "linked_programs": [],
+      "why_match": "Dr. David Forbes' work on problem anger in veterans and military personnel, including its prevalence, predictors, and associated harms of suicide and violence, resonates with your interests in PTSD in military veterans. His systematic review of treatments for problem anger could inform potential interventions you'd like to develop."
+    },
+    {
+      "supervisor_id": "A5058469813",
+      "name": "Miranda Van Hooff",
+      "institution": "University of South Australia",
+      "country": "AU",
+      "contact_email": null,
+      "research_focus": "Posttraumatic Stress Disorder Research, Migration, Health and Trauma, Child Abuse and Trauma, Traumatic Brain Injury Research, Suicide and Self-Harm Studies",
+      "matched_area": "PTSD in military veterans",
+      "tier": "target",
+      "score": 0.917,
+      "papers": [
+        {
+          "title": "Problem anger in veterans and military personnel: Prevalence, predictors, and associated harms of suicide and violence",
+          "year": 2022,
+          "doi": "https://doi.org/10.1016/j.jpsychires.2022.04.004",
+          "openalex_id": "https://openalex.org/W4223898773",
+          "url": "https://doi.org/10.1016/j.jpsychires.2022.04.004",
+          "is_last_author": false
+        },
+        {
+          "title": "Experiences of Parental PTSD for Children Aged 9–17 in Military and Emergency First Responder Families",
+          "year": 2023,
+          "doi": "https://doi.org/10.1007/s10826-023-02669-y",
+          "openalex_id": "https://openalex.org/W4388527944",
+          "url": "https://doi.org/10.1007/s10826-023-02669-y",
+          "is_last_author": false
+        },
+        {
+          "title": "Childhood determinants of past-year anxiety and depression in recently transitioned military personnel",
+          "year": 2020,
+          "doi": "https://doi.org/10.1016/j.jad.2020.04.053",
+          "openalex_id": "https://openalex.org/W3025820294",
+          "url": "https://doi.org/10.1016/j.jad.2020.04.053",
+          "is_last_author": false
+        },
+        {
+          "title": "Effectiveness of Operation K9 Assistance Dogs on Suicidality in Australian Veterans with PTSD: A 12-Month Mixed-Methods Follow-Up Study",
+          "year": 2023,
+          "doi": "https://doi.org/10.3390/ijerph20043607",
+          "openalex_id": "https://openalex.org/W4321374553",
+          "url": "https://doi.org/10.3390/ijerph20043607",
+          "is_last_author": true
+        }
+      ],
+      "grants": [],
+      "linked_programs": [],
+      "why_match": "Dr. Van Hooff's research on the experiences of children whose parents have PTSD, particularly in military and emergency first responder families, shows a nuanced understanding of the intergenerational impact of trauma. Her work also explores childhood determinants of anxiety and depression in recently transitioned military personnel, which aligns with my interests in addressing PTSD in veterans. I think her expertise would be beneficial in informing my research."
+    },
+    {
+      "supervisor_id": "A5043635966",
+      "name": "Jennifer Wild",
+      "institution": "The University of Melbourne",
+      "country": "AU",
+      "contact_email": null,
+      "research_focus": "Posttraumatic Stress Disorder Research, Anxiety, Depression, Psychometrics, Treatment, Cognitive Processes, Resilience and Mental Health, Folate and B Vitamins Research, Grief, Bereavement, and Mental Health",
+      "matched_area": "PTSD in military veterans",
+      "tier": "target",
+      "score": 0.917,
+      "papers": [
+        {
+          "title": "Living with loss: a cognitive approach to prolonged grief disorder – incorporating complicated, enduring and traumatic grief",
+          "year": 2023,
+          "doi": "https://doi.org/10.1017/s1352465822000674",
+          "openalex_id": "https://openalex.org/W4376223811",
+          "url": "https://doi.org/10.1017/s1352465822000674",
+          "is_last_author": true
+        },
+        {
+          "title": "Evaluation of SHAPE cognitive therapy coaching for PTSD and depression symptoms in healthcare workers repeatedly exposed to trauma",
+          "year": 2026,
+          "doi": "https://doi.org/10.1038/s41598-026-36057-5",
+          "openalex_id": "https://openalex.org/W7124588421",
+          "url": "https://doi.org/10.1038/s41598-026-36057-5",
+          "is_last_author": false
+        }
+      ],
+      "grants": [
+        {
+          "title": "Advancing cognitive therapy for anxiety disorders and PTSD",
+          "funder": "Wellcome Trust",
+          "funder_country": null,
+          "award_id": "200796",
+          "funding_type": "grant",
+          "url": "https://europepmc.org/grantfinder/grantdetails?query=pi:\"%7BProfessor%7D%7BEhlers%7D%7BAnke%7D%7BA%7D\" gid:\"200796\" ga:\"Wellcome Trust\""
+        }
+      ],
+      "linked_programs": [],
+      "why_match": "Dr. Wild's work on cognitive approaches to prolonged grief disorder and SHAPE cognitive therapy coaching for PTSD and depression symptoms in healthcare workers shows her commitment to developing effective interventions for trauma-related disorders. Her research also explores the impact of repeated exposure to trauma, which is a critical aspect of your proposed study on PTSD among military veterans."
+    },
+    {
+      "supervisor_id": "A5030856464",
+      "name": "Lindsay B. Carey",
+      "institution": "La Trobe University",
+      "country": "AU",
+      "contact_email": null,
+      "research_focus": "Religion, Spirituality, and Psychology, Religion, Society, and Development, Grief, Bereavement, and Mental Health, Palliative Care and End-of-Life Issues, Theological Perspectives and Practices",
+      "matched_area": "PTSD in military veterans",
+      "tier": "target",
+      "score": 0.879,
+      "papers": [
+        {
+          "title": "Examining the Association Between Moral Injury and Suicidal Behavior in Military Populations: A Systematic Review",
+          "year": 2023,
+          "doi": "https://doi.org/10.1007/s10943-023-01885-6",
+          "openalex_id": "https://openalex.org/W4385933133",
+          "url": "https://doi.org/10.1007/s10943-023-01885-6",
+          "is_last_author": false
+        },
+        {
+          "title": "Moral Injury, Chaplaincy and Mental Health Provider Approaches to Treatment: A Scoping Review",
+          "year": 2022,
+          "doi": "https://doi.org/10.1007/s10943-022-01534-4",
+          "openalex_id": "https://openalex.org/W4221072005",
+          "url": "https://doi.org/10.1007/s10943-022-01534-4",
+          "is_last_author": false
+        },
+        {
+          "title": "Moral trauma, moral distress, moral injury, and moral injury disorder: definitions and assessments",
+          "year": 2025,
+          "doi": "https://doi.org/10.3389/fpsyg.2025.1422441",
+          "openalex_id": "https://openalex.org/W4408158827",
+          "url": "https://doi.org/10.3389/fpsyg.2025.1422441",
+          "is_last_author": false
+        },
+        {
+          "title": "Military Perspectives on the Provision of Spiritual Care in the Australian Defence Force: A Cross-Sectional Study",
+          "year": 2024,
+          "doi": "https://doi.org/10.1007/s10943-023-01985-3",
+          "openalex_id": "https://openalex.org/W4391109220",
+          "url": "https://doi.org/10.1007/s10943-023-01985-3",
+          "is_last_author": true
+        }
+      ],
+      "grants": [],
+      "linked_programs": [],
+      "why_match": "Dr. Carey's systematic review on the association between moral injury and suicidal behavior in military populations demonstrates a thorough understanding of the complex relationships between trauma, morality, and mental health. His work also highlights the importance of addressing moral trauma and distress in treatment approaches, which I believe would be an essential aspect of my research. I think his expertise would be invaluable in guiding my project."
+    },
+    {
+      "supervisor_id": "A5007503233",
+      "name": "Ross McD. Young",
+      "institution": "Queensland University of Technology",
+      "country": "AU",
+      "contact_email": null,
+      "research_focus": "Substance Abuse Treatment and Outcomes, Neurotransmitter Receptor Influence on Behavior, Schizophrenia research and treatment, Cannabis and Cannabinoid Research, Posttraumatic Stress Disorder Research",
+      "matched_area": "PTSD in military veterans",
+      "tier": "target",
+      "score": 0.879,
+      "papers": [
+        {
+          "title": "Epigenome-wide association studies identify novel DNA methylation sites associated with PTSD: a meta-analysis of 23 military and civilian cohorts",
+          "year": 2024,
+          "doi": "https://doi.org/10.1186/s13073-024-01417-1",
+          "openalex_id": "https://openalex.org/W4405529314",
+          "url": "https://doi.org/10.1186/s13073-024-01417-1",
+          "is_last_author": false
+        },
+        {
+          "title": "Examining Individual and Synergistic Contributions of PTSD and Genetics to Blood Pressure: A Trans-Ethnic Meta-Analysis",
+          "year": 2021,
+          "doi": "https://doi.org/10.3389/fnins.2021.678503",
+          "openalex_id": "https://openalex.org/W3174127247",
+          "url": "https://doi.org/10.3389/fnins.2021.678503",
+          "is_last_author": false
+        },
+        {
+          "title": "Investigation of C-reactive protein and AIM2 methylation as a marker for PTSD in Australian Vietnam veterans",
+          "year": 2021,
+          "doi": "https://doi.org/10.1016/j.gene.2021.145898",
+          "openalex_id": "https://openalex.org/W3188214658",
+          "url": "https://doi.org/10.1016/j.gene.2021.145898",
+          "is_last_author": false
+        },
+        {
+          "title": "Epigenome-wide association studies identify novel DNA methylation sites associated with PTSD: A meta-analysis of 23 military and civilian cohorts",
+          "year": 2024,
+          "doi": "https://doi.org/10.1101/2024.07.15.24310422",
+          "openalex_id": "https://openalex.org/W4400699792",
+          "url": "https://doi.org/10.1101/2024.07.15.24310422",
+          "is_last_author": false
+        }
+      ],
+      "grants": [],
+      "linked_programs": [],
+      "why_match": "Your interest in PTSD in military veterans aligns with Dr. Young's work on epigenetic markers, such as DNA methylation sites associated with PTSD (Epigenome-wide association studies...). His meta-analysis of 23 cohorts and investigation of C-reactive protein and AIM2 methylation as a marker for PTSD also resonate with your goals."
+    },
+    {
+      "supervisor_id": "A5065190342",
+      "name": "Maja Nedeljkovic",
+      "institution": "Swinburne University of Technology",
+      "country": "AU",
+      "contact_email": null,
+      "research_focus": "Obsessive-Compulsive Spectrum Disorders, Eating Disorders and Behaviors, Anxiety, Depression, Psychometrics, Treatment, Cognitive Processes, Digital Mental Health Interventions, Child and Adolescent Psychosocial and Emotional Development",
+      "matched_area": "PTSD in military veterans",
+      "tier": "target",
+      "score": 0.879,
+      "papers": [
+        {
+          "title": "Prevalence of Complex Post-Traumatic Stress Disorder (CPTSD): A Systematic Review and Meta-Analysis",
+          "year": 2025,
+          "doi": "https://doi.org/10.1016/j.psychres.2025.116586",
+          "openalex_id": "https://openalex.org/W4411349106",
+          "url": "https://doi.org/10.1016/j.psychres.2025.116586",
+          "is_last_author": true
+        },
+        {
+          "title": "Review of the current empirical literature on using videoconferencing to deliver individual psychotherapies to adults with mental health problems",
+          "year": 2021,
+          "doi": "https://doi.org/10.1111/papt.12332",
+          "openalex_id": "https://openalex.org/W3129452557",
+          "url": "https://doi.org/10.1111/papt.12332",
+          "is_last_author": false
+        },
+        {
+          "title": "Videoconferencing Psychotherapy in the Public Sector: Synthesis and Model for Implementation",
+          "year": 2020,
+          "doi": "https://doi.org/10.2196/14996",
+          "openalex_id": "https://openalex.org/W3000777482",
+          "url": "https://doi.org/10.2196/14996",
+          "is_last_author": false
+        },
+        {
+          "title": "Barriers and facilitators of videoconferencing psychotherapy implementation in veteran mental health care environments: a systematic review",
+          "year": 2020,
+          "doi": "https://doi.org/10.1186/s12913-020-05858-3",
+          "openalex_id": "https://openalex.org/W3096662510",
+          "url": "https://doi.org/10.1186/s12913-020-05858-3",
+          "is_last_author": false
+        }
+      ],
+      "grants": [],
+      "linked_programs": [],
+      "why_match": "Dr. Nedeljkovic's systematic review on CPTSD and her work on videoconferencing psychotherapy suggest a strong interest in innovative approaches to treating PTSD among military veterans, which aligns with my goals. Her synthesis of empirical literature also indicates a commitment to evidence-based practice that I appreciate. I believe Dr. Nedeljkovic's expertise would be valuable in guiding my research."
+    },
+    {
+      "supervisor_id": "A5059300979",
+      "name": "Richelle Mychasiuk",
+      "institution": "Monash University",
+      "country": "AU",
+      "contact_email": null,
+      "research_focus": "Traumatic Brain Injury Research, Traumatic Brain Injury and Neurovascular Disturbances, Stress Responses and Cortisol, Pediatric Pain Management Techniques, Neuroendocrine regulation and behavior",
+      "matched_area": "PTSD in military veterans",
+      "tier": "target",
+      "score": 0.879,
+      "papers": [
+        {
+          "title": "Examining the epigenetic transmission of risk for chronic pain associated with paternal post-traumatic stress disorder: a focus on veteran populations",
+          "year": 2025,
+          "doi": "https://doi.org/10.1038/s41398-025-03267-w",
+          "openalex_id": "https://openalex.org/W4407151995",
+          "url": "https://doi.org/10.1038/s41398-025-03267-w",
+          "is_last_author": true
+        },
+        {
+          "title": "Pain and Post-traumatic Stress Disorder Symptoms: Dyadic Relationships Between Canadian Armed Forces Members/Veterans With Chronic Pain and Their Offspring",
+          "year": 2024,
+          "doi": "https://doi.org/10.1016/j.jpain.2024.03.012",
+          "openalex_id": "https://openalex.org/W4394585200",
+          "url": "https://doi.org/10.1016/j.jpain.2024.03.012",
+          "is_last_author": false
+        },
+        {
+          "title": "The interaction of the circadian and immune system: Desynchrony as a pathological outcome to traumatic brain injury",
+          "year": 2020,
+          "doi": "https://doi.org/10.1016/j.nbscr.2020.100058",
+          "openalex_id": "https://openalex.org/W3093449024",
+          "url": "https://doi.org/10.1016/j.nbscr.2020.100058",
+          "is_last_author": true
+        },
+        {
+          "title": "Sleep disturbance underlies the co-occurrence of trauma and pediatric chronic pain: a longitudinal examination",
+          "year": 2020,
+          "doi": "https://doi.org/10.1097/j.pain.0000000000001769",
+          "openalex_id": "https://openalex.org/W3005623967",
+          "url": "https://doi.org/10.1097/j.pain.0000000000001769",
+          "is_last_author": false
+        }
+      ],
+      "grants": [],
+      "linked_programs": [],
+      "why_match": "Your interest in PTSD in military veterans aligns with Dr. Mychasiuk's research on the epigenetic transmission of risk for chronic pain associated with paternal post-traumatic stress disorder, particularly in veteran populations. Her work also explores the dyadic relationships between Canadian Armed Forces members/veterans with chronic pain and their offspring, which resonates with your background in clinical psychology."
+    },
+    {
+      "supervisor_id": "A5053575400",
+      "name": "Lucia Valmaggia",
+      "institution": "The University of Melbourne",
+      "country": "AU",
+      "contact_email": null,
+      "research_focus": "Schizophrenia research and treatment, Mental Health and Psychiatry, Mental Health Research Topics, Mental Health Treatment and Access, Tryptophan and brain disorders",
+      "matched_area": "PTSD in military veterans",
+      "tier": "target",
+      "score": 0.879,
+      "papers": [
+        {
+          "title": "A whole-brain voxel-based analysis of structural abnormalities in PTSD: An ENIGMA-PGC study",
+          "year": 2025,
+          "doi": "https://doi.org/10.1192/j.eurpsy.2025.10062",
+          "openalex_id": "https://openalex.org/W4412551082",
+          "url": "https://doi.org/10.1192/j.eurpsy.2025.10062",
+          "is_last_author": false
+        },
+        {
+          "title": "Advances in the use of virtual reality to treat mental health conditions",
+          "year": 2024,
+          "doi": "https://doi.org/10.1038/s44159-024-00334-9",
+          "openalex_id": "https://openalex.org/W4400486769",
+          "url": "https://doi.org/10.1038/s44159-024-00334-9",
+          "is_last_author": true
+        }
+      ],
+      "grants": [
+        {
+          "title": "DTP Bid Led by King's College London",
+          "funder": "Medical Research Council",
+          "funder_country": null,
+          "award_id": "MR/N013700/1",
+          "funding_type": "training",
+          "url": "https://gtr.ukri.org/projects?ref=MR/N013700/1"
+        }
+      ],
+      "linked_programs": [],
+      "why_match": "Dr. Valmaggia's research on structural abnormalities in PTSD using whole-brain voxel-based analysis aligns with your interests in understanding the neural mechanisms underlying PTSD in military veterans. Her work also explores innovative treatments, such as virtual reality therapy, which could be relevant to your goals."
+    },
+    {
+      "supervisor_id": "A5075491539",
+      "name": "Stuart J. McDonald",
+      "institution": "Monash University",
+      "country": "AU",
+      "contact_email": null,
+      "research_focus": "Traumatic Brain Injury Research, Traumatic Brain Injury and Neurovascular Disturbances, S100 Proteins and Annexins, Cardiac Arrest and Resuscitation, Bone fractures and treatments",
+      "matched_area": "PTSD in military veterans",
+      "tier": "target",
+      "score": 0.879,
+      "papers": [
+        {
+          "title": "Stress and traumatic brain injury: An inherent bi-directional relationship with temporal and synergistic complexities",
+          "year": 2023,
+          "doi": "https://doi.org/10.1016/j.neubiorev.2023.105242",
+          "openalex_id": "https://openalex.org/W4377246874",
+          "url": "https://doi.org/10.1016/j.neubiorev.2023.105242",
+          "is_last_author": false
+        },
+        {
+          "title": "The interaction of the circadian and immune system: Desynchrony as a pathological outcome to traumatic brain injury",
+          "year": 2020,
+          "doi": "https://doi.org/10.1016/j.nbscr.2020.100058",
+          "openalex_id": "https://openalex.org/W3093449024",
+          "url": "https://doi.org/10.1016/j.nbscr.2020.100058",
+          "is_last_author": false
+        },
+        {
+          "title": "Neurological heterotopic ossification: novel mechanisms, prognostic biomarkers and prophylactic therapies",
+          "year": 2020,
+          "doi": "https://doi.org/10.1038/s41413-020-00119-9",
+          "openalex_id": "https://openalex.org/W3113216470",
+          "url": "https://doi.org/10.1038/s41413-020-00119-9",
+          "is_last_author": false
+        },
+        {
+          "title": "BDNF: New Views of an Old Player in Traumatic Brain Injury",
+          "year": 2023,
+          "doi": "https://doi.org/10.1177/10738584231164918",
+          "openalex_id": "https://openalex.org/W4366084193",
+          "url": "https://doi.org/10.1177/10738584231164918",
+          "is_last_author": true
+        }
+      ],
+      "grants": [],
+      "linked_programs": [],
+      "why_match": "Dr. McDonald's research on stress and traumatic brain injury is particularly relevant to your interests in PTSD among military veterans, as it highlights the complex interplay between physical and psychological trauma. His work also explores novel mechanisms for addressing neurological damage, which could be applicable to developing treatments for veterans with co-occurring conditions."
+    },
+    {
+      "supervisor_id": "A5078165559",
+      "name": "Sandy R. Shultz",
+      "institution": "Monash University",
+      "country": "AU",
+      "contact_email": null,
+      "research_focus": "Traumatic Brain Injury Research, Traumatic Brain Injury and Neurovascular Disturbances, S100 Proteins and Annexins, Cardiac Arrest and Resuscitation, Epilepsy research and treatment",
+      "matched_area": "PTSD in military veterans",
+      "tier": "target",
+      "score": 0.879,
+      "papers": [
+        {
+          "title": "Stress and traumatic brain injury: An inherent bi-directional relationship with temporal and synergistic complexities",
+          "year": 2023,
+          "doi": "https://doi.org/10.1016/j.neubiorev.2023.105242",
+          "openalex_id": "https://openalex.org/W4377246874",
+          "url": "https://doi.org/10.1016/j.neubiorev.2023.105242",
+          "is_last_author": true
+        },
+        {
+          "title": "The interaction of the circadian and immune system: Desynchrony as a pathological outcome to traumatic brain injury",
+          "year": 2020,
+          "doi": "https://doi.org/10.1016/j.nbscr.2020.100058",
+          "openalex_id": "https://openalex.org/W3093449024",
+          "url": "https://doi.org/10.1016/j.nbscr.2020.100058",
+          "is_last_author": false
+        },
+        {
+          "title": "Intimate Partner Violence-Related Brain Injury: Unmasking and Addressing the Gaps",
+          "year": 2024,
+          "doi": "https://doi.org/10.1089/neu.2023.0543",
+          "openalex_id": "https://openalex.org/W4391603941",
+          "url": "https://doi.org/10.1089/neu.2023.0543",
+          "is_last_author": false
+        },
+        {
+          "title": "Neurological heterotopic ossification: novel mechanisms, prognostic biomarkers and prophylactic therapies",
+          "year": 2020,
+          "doi": "https://doi.org/10.1038/s41413-020-00119-9",
+          "openalex_id": "https://openalex.org/W3113216470",
+          "url": "https://doi.org/10.1038/s41413-020-00119-9",
+          "is_last_author": false
+        }
+      ],
+      "grants": [],
+      "linked_programs": [],
+      "why_match": "Your interest in PTSD in military veterans aligns with my work on the bi-directional relationship between stress and traumatic brain injury. I've also explored the circadian and immune system's interaction, which is crucial for understanding the pathological outcomes of traumatic brain injury. My research could provide a comprehensive framework for addressing this complex issue."
+    },
+    {
+      "supervisor_id": "A5078131240",
+      "name": "Tracey Varker",
+      "institution": "Mental Health Australia",
+      "country": "AU",
+      "contact_email": null,
+      "research_focus": "Posttraumatic Stress Disorder Research, Traumatic Brain Injury Research, Resilience and Mental Health, Migration, Health and Trauma, Child Abuse and Trauma",
+      "matched_area": "PTSD in military veterans",
+      "tier": "target",
+      "score": 0.842,
+      "papers": [
+        {
+          "title": "Problem anger in veterans and military personnel: Prevalence, predictors, and associated harms of suicide and violence",
+          "year": 2022,
+          "doi": "https://doi.org/10.1016/j.jpsychires.2022.04.004",
+          "openalex_id": "https://openalex.org/W4223898773",
+          "url": "https://doi.org/10.1016/j.jpsychires.2022.04.004",
+          "is_last_author": false
+        },
+        {
+          "title": "A systematic review of treatments for problem anger in veteran and military populations with PTSD",
+          "year": 2023,
+          "doi": "https://doi.org/10.1016/j.avb.2023.101837",
+          "openalex_id": "https://openalex.org/W4360604663",
+          "url": "https://doi.org/10.1016/j.avb.2023.101837",
+          "is_last_author": true
+        },
+        {
+          "title": "Prevalence of Complex Post-Traumatic Stress Disorder in Serving Military and Veteran Populations: A Systematic Review",
+          "year": 2024,
+          "doi": "https://doi.org/10.1177/15248380241246996",
+          "openalex_id": "https://openalex.org/W4395049251",
+          "url": "https://doi.org/10.1177/15248380241246996",
+          "is_last_author": false
+        },
+        {
+          "title": "Attention‐control training as an early intervention for veterans leaving the military: A pilot randomized controlled trial",
+          "year": 2022,
+          "doi": "https://doi.org/10.1002/jts.22828",
+          "openalex_id": "https://openalex.org/W4221079835",
+          "url": "https://doi.org/10.1002/jts.22828",
+          "is_last_author": true
+        }
+      ],
+      "grants": [],
+      "linked_programs": [],
+      "why_match": "Dr. Tracey Varker's research on the prevalence of Complex Post-Traumatic Stress Disorder in serving military and veteran populations, as well as her work on problem anger in veterans, aligns with your interests in PTSD in military veterans. Her systematic review could provide valuable insights for your future research."
+    },
+    {
+      "supervisor_id": "A5053219186",
+      "name": "Alexander C. McFarlane",
+      "institution": "The University of Adelaide",
+      "country": "AU",
+      "contact_email": null,
+      "research_focus": "Posttraumatic Stress Disorder Research, Traumatic Brain Injury Research, Migration, Health and Trauma, Resilience and Mental Health, Child Abuse and Trauma",
+      "matched_area": "PTSD in military veterans",
+      "tier": "target",
+      "score": 0.842,
+      "papers": [
+        {
+          "title": "Problem anger in veterans and military personnel: Prevalence, predictors, and associated harms of suicide and violence",
+          "year": 2022,
+          "doi": "https://doi.org/10.1016/j.jpsychires.2022.04.004",
+          "openalex_id": "https://openalex.org/W4223898773",
+          "url": "https://doi.org/10.1016/j.jpsychires.2022.04.004",
+          "is_last_author": false
+        },
+        {
+          "title": "Attention‐control training as an early intervention for veterans leaving the military: A pilot randomized controlled trial",
+          "year": 2022,
+          "doi": "https://doi.org/10.1002/jts.22828",
+          "openalex_id": "https://openalex.org/W4221079835",
+          "url": "https://doi.org/10.1002/jts.22828",
+          "is_last_author": false
+        },
+        {
+          "title": "Mental health across the early years in the military",
+          "year": 2022,
+          "doi": "https://doi.org/10.1017/s0033291722000332",
+          "openalex_id": "https://openalex.org/W4213430770",
+          "url": "https://doi.org/10.1017/s0033291722000332",
+          "is_last_author": false
+        },
+        {
+          "title": "Treatment of Posttraumatic Stress Disorder: A State-of-the-art Review",
+          "year": 2023,
+          "doi": "https://doi.org/10.2174/1570159x21666230428091433",
+          "openalex_id": "https://openalex.org/W4367835241",
+          "url": "https://doi.org/10.2174/1570159x21666230428091433",
+          "is_last_author": false
+        }
+      ],
+      "grants": [],
+      "linked_programs": [],
+      "why_match": "Your interest in PTSD in military veterans aligns with Dr. McFarlane's work on problem anger in veterans, which highlights the need for early interventions to prevent associated harms of suicide and violence. His pilot randomized controlled trial on attention-control training as an early intervention also resonates with your goals. I believe his expertise would be valuable in guiding my research."
+    },
+    {
+      "supervisor_id": "A5089829042",
+      "name": "Fatima Nasrallah",
+      "institution": "The University of Queensland",
+      "country": "AU",
+      "contact_email": null,
+      "research_focus": "Traumatic Brain Injury and Neurovascular Disturbances, Traumatic Brain Injury Research, Advanced MRI Techniques and Applications, Advanced Neuroimaging Techniques and Applications, Functional Brain Connectivity Studies",
+      "matched_area": "PTSD in military veterans",
+      "tier": "target",
+      "score": 0.842,
+      "papers": [
+        {
+          "title": "Exploiting blood-based biomarkers to align preclinical models with human traumatic brain injury",
+          "year": 2024,
+          "doi": "https://doi.org/10.1093/brain/awae350",
+          "openalex_id": "https://openalex.org/W4404166943",
+          "url": "https://doi.org/10.1093/brain/awae350",
+          "is_last_author": false
+        },
+        {
+          "title": "Self-reported Fatigue was Associated with Increased White-matter Alterations in Long-term Traumatic Brain Injury and Posttraumatic Stress Disorder Patients",
+          "year": 2023,
+          "doi": "https://doi.org/10.1016/j.neuroscience.2023.03.029",
+          "openalex_id": "https://openalex.org/W4366257123",
+          "url": "https://doi.org/10.1016/j.neuroscience.2023.03.029",
+          "is_last_author": false
+        },
+        {
+          "title": "PREdiction and Diagnosis using Imaging and Clinical biomarkers Trial in Traumatic Brain Injury (PREDICT-TBI) study protocol: an observational, prospective, multicentre cohort study for the prediction of outcome in moderate-to-severe TBI",
+          "year": 2023,
+          "doi": "https://doi.org/10.1136/bmjopen-2022-067740",
+          "openalex_id": "https://openalex.org/W4366817606",
+          "url": "https://doi.org/10.1136/bmjopen-2022-067740",
+          "is_last_author": false
+        },
+        {
+          "title": "A roadmap of brain recovery in a mouse model of concussion: insights from neuroimaging",
+          "year": 2021,
+          "doi": "https://doi.org/10.1186/s40478-020-01098-y",
+          "openalex_id": "https://openalex.org/W3118317998",
+          "url": "https://doi.org/10.1186/s40478-020-01098-y",
+          "is_last_author": true
+        }
+      ],
+      "grants": [],
+      "linked_programs": [],
+      "why_match": "Your interest in PTSD in military veterans aligns with Dr. Nasrallah's work on traumatic brain injury, particularly her study on blood-based biomarkers and preclinical models. Her research also explores the relationship between fatigue and white-matter alterations in TBI patients, which could be relevant to your interests."
+    },
+    {
+      "supervisor_id": "A5058567707",
+      "name": "David Berle",
+      "institution": "University of Technology Sydney",
+      "country": "AU",
+      "contact_email": null,
+      "research_focus": "Anxiety, Depression, Psychometrics, Treatment, Cognitive Processes, Obsessive-Compulsive Spectrum Disorders, Posttraumatic Stress Disorder Research, Child and Adolescent Psychosocial and Emotional Development, Psychosomatic Disorders and Their Treatments",
+      "matched_area": "PTSD in military veterans",
+      "tier": "target",
+      "score": 0.804,
+      "papers": [
+        {
+          "title": "Predictors of alcohol and substance use among people with post-traumatic stress disorder (PTSD): findings from the NESARC-III study",
+          "year": 2023,
+          "doi": "https://doi.org/10.1007/s00127-023-02472-6",
+          "openalex_id": "https://openalex.org/W4367834714",
+          "url": "https://doi.org/10.1007/s00127-023-02472-6",
+          "is_last_author": true
+        },
+        {
+          "title": "Changes in intolerance of uncertainty over the course of treatment predict posttraumatic stress disorder symptoms in an inpatient sample",
+          "year": 2021,
+          "doi": "https://doi.org/10.1002/cpp.2625",
+          "openalex_id": "https://openalex.org/W3172855991",
+          "url": "https://doi.org/10.1002/cpp.2625",
+          "is_last_author": true
+        },
+        {
+          "title": "Measuring Moral Injury: Further Validation of the MIES-C and EMIS-C in a Civilian Population",
+          "year": 2023,
+          "doi": "https://doi.org/10.1007/s10862-023-10071-7",
+          "openalex_id": "https://openalex.org/W4384821939",
+          "url": "https://doi.org/10.1007/s10862-023-10071-7",
+          "is_last_author": true
+        },
+        {
+          "title": "Feasibility of an adjunctive cognitive task in the treatment of posttraumatic stress disorder",
+          "year": 2021,
+          "doi": "https://doi.org/10.1007/s44202-021-00011-5",
+          "openalex_id": "https://openalex.org/W4200592128",
+          "url": "https://doi.org/10.1007/s44202-021-00011-5",
+          "is_last_author": true
+        }
+      ],
+      "grants": [],
+      "linked_programs": [],
+      "why_match": "Dr. David Berle's studies on predictors of substance use among individuals with PTSD and changes in intolerance of uncertainty during treatment resonate with your goals to understand the complexities of PTSD in military veterans, and his work could provide valuable insights for your research."
+    },
+    {
+      "supervisor_id": "A5066131206",
+      "name": "Samuel B. Harvey",
+      "institution": "Black Dog Institute",
+      "country": "AU",
+      "contact_email": null,
+      "research_focus": "Workplace Health and Well-being, Healthcare professionals’ stress and burnout, Digital Mental Health Interventions, Mental Health Treatment and Access, Posttraumatic Stress Disorder Research",
+      "matched_area": "PTSD in military veterans",
+      "tier": "target",
+      "score": 0.804,
+      "papers": [
+        {
+          "title": "Mind-body exercise interventions for prevention of post-traumatic stress disorder in trauma-exposed populations: a systematic review and meta-analysis",
+          "year": 2023,
+          "doi": "https://doi.org/10.1136/bmjopen-2022-064758",
+          "openalex_id": "https://openalex.org/W4384070144",
+          "url": "https://doi.org/10.1136/bmjopen-2022-064758",
+          "is_last_author": true
+        },
+        {
+          "title": "Mental health screening amongst police officers: factors associated with under-reporting of symptoms",
+          "year": 2021,
+          "doi": "https://doi.org/10.1186/s12888-021-03125-1",
+          "openalex_id": "https://openalex.org/W3134684211",
+          "url": "https://doi.org/10.1186/s12888-021-03125-1",
+          "is_last_author": true
+        },
+        {
+          "title": "A prospective study of pre-employment psychological testing amongst police recruits",
+          "year": 2020,
+          "doi": "https://doi.org/10.1093/occmed/kqaa008",
+          "openalex_id": "https://openalex.org/W3006324602",
+          "url": "https://doi.org/10.1093/occmed/kqaa008",
+          "is_last_author": true
+        },
+        {
+          "title": "Web-Based Mind-Body Tactical Resilience Training Program for First Responders: Pre-Post Study Assessing Feasibility, Acceptability, and Usability",
+          "year": 2022,
+          "doi": "https://doi.org/10.2196/40145",
+          "openalex_id": "https://openalex.org/W4312477273",
+          "url": "https://doi.org/10.2196/40145",
+          "is_last_author": true
+        }
+      ],
+      "grants": [],
+      "linked_programs": [],
+      "why_match": "Your focus on PTSD in military veterans resonates with my research on mind-body exercise interventions for prevention of post-traumatic stress disorder. I'm also intrigued by your potential to contribute to studies on mental health screening amongst police officers, given the overlap between law enforcement and veteran populations. Your M.Sc. in Clinical Psychology would be a strong foundation for exploring these topics further."
+    },
+    {
+      "supervisor_id": "A5055000569",
+      "name": "Angela Nickerson",
+      "institution": "UNSW Sydney",
+      "country": "AU",
+      "contact_email": null,
+      "research_focus": "Migration, Health and Trauma, Posttraumatic Stress Disorder Research, Child Abuse and Trauma, Racial and Ethnic Identity Research, Grief, Bereavement, and Mental Health",
+      "matched_area": "PTSD in military veterans",
+      "tier": "target",
+      "score": 0.804,
+      "papers": [
+        {
+          "title": "Screening for consequences of trauma – an update on the global collaboration on traumatic stress",
+          "year": 2020,
+          "doi": "https://doi.org/10.1080/20008198.2020.1752504",
+          "openalex_id": "https://openalex.org/W3021058577",
+          "url": "https://doi.org/10.1080/20008198.2020.1752504",
+          "is_last_author": false
+        },
+        {
+          "title": "Profiles of exposure to potentially traumatic events in refugees living in Australia",
+          "year": 2021,
+          "doi": "https://doi.org/10.1017/s2045796021000068",
+          "openalex_id": "https://openalex.org/W3132079282",
+          "url": "https://doi.org/10.1017/s2045796021000068",
+          "is_last_author": false
+        },
+        {
+          "title": "Course and predictors of posttraumatic stress and depression longitudinal symptom profiles in refugees: A latent transition model",
+          "year": 2021,
+          "doi": "https://doi.org/10.1016/j.jpsychires.2021.12.009",
+          "openalex_id": "https://openalex.org/W4200553319",
+          "url": "https://doi.org/10.1016/j.jpsychires.2021.12.009",
+          "is_last_author": true
+        },
+        {
+          "title": "A summary of the 38th Annual International Society for Traumatic Stress Studies Presidential Panel: How the traumatic stress community can assist individuals affected by the war in Ukraine",
+          "year": 2023,
+          "doi": "https://doi.org/10.1002/jts.22945",
+          "openalex_id": "https://openalex.org/W4381431683",
+          "url": "https://doi.org/10.1002/jts.22945",
+          "is_last_author": false
+        }
+      ],
+      "grants": [],
+      "linked_programs": [],
+      "why_match": "Your interest in PTSD among military veterans aligns with Dr. Nickerson's work on the global collaboration on traumatic stress, where she has contributed to understanding the consequences of trauma. Her research on refugees living in Australia also explores the impact of potentially traumatic events, which resonates with your background in clinical psychology. I believe her expertise would be a valuable fit for your research goals."
+    },
+    {
+      "supervisor_id": "A5041792291",
+      "name": "Myfanwy Maple",
+      "institution": "University of New England",
+      "country": "AU",
+      "contact_email": null,
+      "research_focus": "Suicide and Self-Harm Studies, Grief, Bereavement, and Mental Health, Homicide, Infanticide, and Child Abuse, Mental Health Treatment and Access, Migration, Health and Trauma",
+      "matched_area": "PTSD in military veterans",
+      "tier": "target",
+      "score": 0.8,
+      "papers": [
+        {
+          "title": "Examining the Association Between Moral Injury and Suicidal Behavior in Military Populations: A Systematic Review",
+          "year": 2023,
+          "doi": "https://doi.org/10.1007/s10943-023-01885-6",
+          "openalex_id": "https://openalex.org/W4385933133",
+          "url": "https://doi.org/10.1007/s10943-023-01885-6",
+          "is_last_author": true
+        },
+        {
+          "title": "Invisible wounds and suicide: Moral injury and veteran mental health",
+          "year": 2020,
+          "doi": "https://doi.org/10.1111/inm.12704",
+          "openalex_id": "https://openalex.org/W3012179318",
+          "url": "https://doi.org/10.1111/inm.12704",
+          "is_last_author": false
+        },
+        {
+          "title": "Impacts of exposure to suicide of a military colleague from the lived experience of veterans: Informing postvention responses from a military cultural perspective",
+          "year": 2024,
+          "doi": "https://doi.org/10.1080/07481187.2023.2261408",
+          "openalex_id": "https://openalex.org/W4390794109",
+          "url": "https://doi.org/10.1080/07481187.2023.2261408",
+          "is_last_author": true
+        }
+      ],
+      "grants": [],
+      "linked_programs": [],
+      "why_match": "Your interest in PTSD among military veterans aligns with Dr. Maple's work on moral injury, particularly her systematic review examining the association between moral injury and suicidal behavior in military populations. Her research also explores the impact of exposure to suicide on veteran mental health, which resonates with your own interests."
+    },
+    {
+      "supervisor_id": "A5023948416",
+      "name": "Eugene Aidman",
+      "institution": "The University of Sydney",
+      "country": "AU",
+      "contact_email": null,
+      "research_focus": "Sleep and Work-Related Fatigue, Behavioral Health and Interventions, Resilience and Mental Health, Human-Automation Interaction and Safety, Neural and Behavioral Psychology Studies",
+      "matched_area": "PTSD in military veterans",
+      "tier": "target",
+      "score": 0.796,
+      "papers": [
+        {
+          "title": "Emotion Regulation and Coping in Active Military Personnel: A Systematic Review",
+          "year": 2025,
+          "doi": "https://doi.org/10.1002/smi.70036",
+          "openalex_id": "https://openalex.org/W4410031408",
+          "url": "https://doi.org/10.1002/smi.70036",
+          "is_last_author": false
+        },
+        {
+          "title": "Effects of Multimodal Physical and Cognitive Fitness Training on Sustaining Mental Health and Job Readiness in a Military Cohort",
+          "year": 2023,
+          "doi": "https://doi.org/10.3390/su15119016",
+          "openalex_id": "https://openalex.org/W4379141587",
+          "url": "https://doi.org/10.3390/su15119016",
+          "is_last_author": true
+        }
+      ],
+      "grants": [],
+      "linked_programs": [],
+      "why_match": "Dr. Eugene Aidman's systematic review on emotion regulation in active military personnel and his study on multimodal physical and cognitive fitness training for sustaining mental health in a military cohort demonstrate a focus on the intersection of physical and psychological well-being, which could complement your interests in PTSD treatment."
+    },
+    {
+      "supervisor_id": "A5033901261",
+      "name": "Andrea Phelps",
+      "institution": "University of Melbourne",
+      "country": "AU",
+      "contact_email": null,
+      "research_focus": "Posttraumatic Stress Disorder Research, Resilience and Mental Health, Traumatic Brain Injury Research, Child Abuse and Trauma, Sleep and related disorders",
+      "matched_area": "PTSD in military veterans",
+      "tier": "target",
+      "score": 0.767,
+      "papers": [
+        {
+          "title": "Moral injury: the effect on mental health and implications for treatment",
+          "year": 2021,
+          "doi": "https://doi.org/10.1016/s2215-0366(21)00113-9",
+          "openalex_id": "https://openalex.org/W3135986009",
+          "url": "https://doi.org/10.1016/s2215-0366(21)00113-9",
+          "is_last_author": false
+        },
+        {
+          "title": "Health Service Interventions for Intimate Partner Violence among Military Personnel and Veterans: A Framework and Scoping Review",
+          "year": 2022,
+          "doi": "https://doi.org/10.3390/ijerph19063551",
+          "openalex_id": "https://openalex.org/W4220798744",
+          "url": "https://doi.org/10.3390/ijerph19063551",
+          "is_last_author": false
+        },
+        {
+          "title": "Intimate Partner Violence (IPV) in Military and Veteran Populations: A Systematic Review of Population-Based Surveys and Population Screening Studies",
+          "year": 2022,
+          "doi": "https://doi.org/10.3390/ijerph19148853",
+          "openalex_id": "https://openalex.org/W4286500561",
+          "url": "https://doi.org/10.3390/ijerph19148853",
+          "is_last_author": false
+        },
+        {
+          "title": "Moral Injury, Chaplaincy and Mental Health Provider Approaches to Treatment: A Scoping Review",
+          "year": 2022,
+          "doi": "https://doi.org/10.1007/s10943-022-01534-4",
+          "openalex_id": "https://openalex.org/W4221072005",
+          "url": "https://doi.org/10.1007/s10943-022-01534-4",
+          "is_last_author": true
+        }
+      ],
+      "grants": [],
+      "linked_programs": [],
+      "why_match": "Dr. Phelps' work on moral injury and its effects on mental health is closely related to your interests, as she has explored the implications for treatment. Her framework for health service interventions for intimate partner violence among military personnel and veterans also demonstrates her expertise in addressing complex issues affecting this population."
+    },
+    {
+      "supervisor_id": "A5083130186",
+      "name": "Einar Thorsteinsson",
+      "institution": "University of New England",
+      "country": "AU",
+      "contact_email": null,
+      "research_focus": "Child and Adolescent Psychosocial and Emotional Development, Resilience and Mental Health, Maternal Mental Health During Pregnancy and Postpartum, Behavioral Health and Interventions, Mental Health Research Topics",
+      "matched_area": "PTSD in military veterans",
+      "tier": "target",
+      "score": 0.754,
+      "papers": [
+        {
+          "title": "Moving Beyond Mosaic: Co-Creating Educational and Psychosocial Resources Using Military Children’s Voices",
+          "year": 2025,
+          "doi": "https://doi.org/10.3390/educsci15060695",
+          "openalex_id": "https://openalex.org/W4411027612",
+          "url": "https://doi.org/10.3390/educsci15060695",
+          "is_last_author": true
+        }
+      ],
+      "grants": [],
+      "linked_programs": [],
+      "why_match": "Your interest in PTSD in military veterans aligns with my work on 'Moving Beyond Mosaic', where I co-created educational and psychosocial resources using the voices of military children. This project's focus on community-based interventions resonates with your goals, and I believe our collaboration could lead to innovative solutions for this population."
+    },
+    {
+      "supervisor_id": "A5057700963",
+      "name": "Fiona Maccallum",
+      "institution": "The University of Queensland",
+      "country": "AU",
+      "contact_email": null,
+      "research_focus": "Grief, Bereavement, and Mental Health, Identity, Memory, and Therapy, Posttraumatic Stress Disorder Research, Migration, Health and Trauma, Mental Health via Writing",
+      "matched_area": "PTSD in military veterans",
+      "tier": "target",
+      "score": 0.754,
+      "papers": [
+        {
+          "title": "Resilience in diversity: a restricted range of roles is associated with more severe moral injury",
+          "year": 2025,
+          "doi": "https://doi.org/10.1017/s1352465825000116",
+          "openalex_id": "https://openalex.org/W4410329263",
+          "url": "https://doi.org/10.1017/s1352465825000116",
+          "is_last_author": true
+        }
+      ],
+      "grants": [],
+      "linked_programs": [],
+      "why_match": "I'm particularly drawn to your work on 'Resilience in diversity: a restricted range of roles is associated with more severe moral injury' as it aligns with my interests in understanding the impact of military service on veterans. I believe that exploring the relationship between role restrictions and moral injury could provide valuable insights into PTSD development. Your expertise in this area would be invaluable to me."
+    },
+    {
+      "supervisor_id": "A5028788213",
+      "name": "Bogdan Wojtyniak",
+      "institution": "UNSW Sydney",
+      "country": "AU",
+      "contact_email": null,
+      "research_focus": "Air Quality and Health Impacts, Global Health Care Issues, Health disparities and outcomes, Mental Health Treatment and Access, Nutrition and Health Studies",
+      "matched_area": "PTSD in military veterans",
+      "tier": "target",
+      "score": 0.725,
+      "papers": [
+        {
+          "title": "The associations between traumatic experiences and subsequent onset of a substance use disorder: Findings from the World Health Organization World Mental Health surveys",
+          "year": 2022,
+          "doi": "https://doi.org/10.1016/j.drugalcdep.2022.109574",
+          "openalex_id": "https://openalex.org/W4285682519",
+          "url": "https://doi.org/10.1016/j.drugalcdep.2022.109574",
+          "is_last_author": true
+        }
+      ],
+      "grants": [
+        {
+          "title": "REU Site: Effects of political upheaval and ethnic discord on the mental health of a population",
+          "funder": "National Science Foundation",
+          "funder_country": null,
+          "award_id": "1560078",
+          "funding_type": "grant",
+          "url": "https://www.nsf.gov/awardsearch/showAward?AWD_ID=1560078"
+        }
+      ],
+      "linked_programs": [],
+      "why_match": "Dr. Wojtyniak's research on the associations between traumatic experiences and substance use disorders resonates with your interests, as it explores the complex interplay between trauma and addiction. His work also touches on the impact of political upheaval on mental health, which could be relevant to understanding the experiences of military veterans."
+    },
+    {
+      "supervisor_id": "A5075904409",
+      "name": "Emma Power",
+      "institution": "University of Technology Sydney",
+      "country": "AU",
+      "contact_email": null,
+      "research_focus": "Traumatic Brain Injury Research, Stroke Rehabilitation and Recovery, Neurobiology of Language and Bilingualism, Assistive Technology in Communication and Mobility, Interpreting and Communication in Healthcare",
+      "matched_area": "PTSD in military veterans",
+      "tier": "target",
+      "score": 0.721,
+      "papers": [
+        {
+          "title": "Recommendations for the Design and Implementation of Virtual Reality for Acquired Brain Injury Rehabilitation: Systematic Review",
+          "year": 2021,
+          "doi": "https://doi.org/10.2196/26344",
+          "openalex_id": "https://openalex.org/W3185133653",
+          "url": "https://doi.org/10.2196/26344",
+          "is_last_author": false
+        },
+        {
+          "title": "Self-Perception of Cognitive-Communication Functions After Mild Traumatic Brain Injury",
+          "year": 2023,
+          "doi": "https://doi.org/10.1044/2022_ajslp-22-00101",
+          "openalex_id": "https://openalex.org/W4316589236",
+          "url": "https://doi.org/10.1044/2022_ajslp-22-00101",
+          "is_last_author": true
+        }
+      ],
+      "grants": [],
+      "linked_programs": [],
+      "why_match": "Dr. Power's systematic review on virtual reality for acquired brain injury rehabilitation, including PTSD in military veterans, demonstrates her expertise in designing effective interventions. Your interests in PTSD treatment would benefit from exploring the potential of virtual reality therapy under her guidance."
+    },
+    {
+      "supervisor_id": "A5066269165",
+      "name": "Lara J. Farrell",
+      "institution": "Griffith University",
+      "country": "AU",
+      "contact_email": null,
+      "research_focus": "Obsessive-Compulsive Spectrum Disorders, Child and Adolescent Psychosocial and Emotional Development, Autism Spectrum Disorder Research, Anxiety, Depression, Psychometrics, Treatment, Cognitive Processes, Eating Disorders and Behaviors",
+      "matched_area": "PTSD in military veterans",
+      "tier": "target",
+      "score": 0.717,
+      "papers": [
+        {
+          "title": "Determinants of Exposure Therapy Implementation in Clinical Practice for the Treatment of Anxiety, OCD, and PTSD: A Systematic Review",
+          "year": 2024,
+          "doi": "https://doi.org/10.1007/s10567-024-00478-3",
+          "openalex_id": "https://openalex.org/W4394873659",
+          "url": "https://doi.org/10.1007/s10567-024-00478-3",
+          "is_last_author": true
+        }
+      ],
+      "grants": [],
+      "linked_programs": [],
+      "why_match": "Your interest in PTSD in military veterans aligns with Dr. Lara J. Farrell's work on the determinants of exposure therapy implementation, which could inform your research on effective treatment approaches for this population."
+    },
+    {
+      "supervisor_id": "A5002271194",
+      "name": "Nicholas W. Bowersox",
+      "institution": "Department of Veterans Affairs",
+      "country": "AU",
+      "contact_email": null,
+      "research_focus": "Mental Health Treatment and Access, Schizophrenia research and treatment, Primary Care and Health Outcomes, Health Policy Implementation Science, Mental Health and Patient Involvement",
+      "matched_area": "PTSD in military veterans",
+      "tier": "target",
+      "score": 0.717,
+      "papers": [
+        {
+          "title": "Engagement in posttraumatic stress disorder treatment for veterans who experienced military sexual trauma and are diagnosed with serious mental illness.",
+          "year": 2024,
+          "doi": "https://doi.org/10.1037/ser0000845",
+          "openalex_id": "https://openalex.org/W4391844525",
+          "url": "https://doi.org/10.1037/ser0000845",
+          "is_last_author": true
+        }
+      ],
+      "grants": [],
+      "linked_programs": [],
+      "why_match": "Dr. Bowersox's research on engagement in PTSD treatment for veterans who experienced military sexual trauma is directly relevant to your interests. His work highlights the challenges faced by this population and the need for tailored interventions, which could inform your own research goals."
+    },
+    {
+      "supervisor_id": "A5033419991",
+      "name": "Grace McKeon",
+      "institution": "UNSW Sydney",
+      "country": "AU",
+      "contact_email": null,
+      "research_focus": "Physical Activity and Health, Digital Mental Health Interventions, Migration, Health and Trauma, Cardiac Health and Mental Health, COVID-19 and Mental Health",
+      "matched_area": "PTSD in military veterans",
+      "tier": "target",
+      "score": 0.706,
+      "papers": [
+        {
+          "title": "Acute changes in affective valence and perceived distress predict reductions in PTSD symptom severity",
+          "year": 2023,
+          "doi": "https://doi.org/10.1016/j.mhpa.2023.100523",
+          "openalex_id": "https://openalex.org/W4377141783",
+          "url": "https://doi.org/10.1016/j.mhpa.2023.100523",
+          "is_last_author": true
+        },
+        {
+          "title": "Trauma and Mental Health Awareness in Emergency Service Workers: A Qualitative Evaluation of the Behind the Seen Education Workshops",
+          "year": 2021,
+          "doi": "https://doi.org/10.3390/ijerph18094418",
+          "openalex_id": "https://openalex.org/W3153585971",
+          "url": "https://doi.org/10.3390/ijerph18094418",
+          "is_last_author": false
+        }
+      ],
+      "grants": [],
+      "linked_programs": [],
+      "why_match": "Dr. McKeon's research on acute changes in affective valence and perceived distress predicting reductions in PTSD symptom severity is particularly relevant to your interests in PTSD treatment. Her work also explores the impact of trauma on mental health, which aligns with your background in clinical psychology."
+    },
+    {
+      "supervisor_id": "A5001014678",
+      "name": "Bruce R. Lawford",
+      "institution": "Queensland University of Technology",
+      "country": "AU",
+      "contact_email": null,
+      "research_focus": "Neurotransmitter Receptor Influence on Behavior, Stress Responses and Cortisol, Posttraumatic Stress Disorder Research, Genetic Associations and Epidemiology, Tryptophan and brain disorders",
+      "matched_area": "PTSD in military veterans",
+      "tier": "target",
+      "score": 0.688,
+      "papers": [
+        {
+          "title": "Examining Individual and Synergistic Contributions of PTSD and Genetics to Blood Pressure: A Trans-Ethnic Meta-Analysis",
+          "year": 2021,
+          "doi": "https://doi.org/10.3389/fnins.2021.678503",
+          "openalex_id": "https://openalex.org/W3174127247",
+          "url": "https://doi.org/10.3389/fnins.2021.678503",
+          "is_last_author": false
+        },
+        {
+          "title": "Enhancing Discovery of Genetic Variants for Posttraumatic Stress Disorder Through Integration of Quantitative Phenotypes and Trauma Exposure Information",
+          "year": 2021,
+          "doi": "https://doi.org/10.1016/j.biopsych.2021.09.020",
+          "openalex_id": "https://openalex.org/W3204914697",
+          "url": "https://doi.org/10.1016/j.biopsych.2021.09.020",
+          "is_last_author": false
+        },
+        {
+          "title": "Investigation of C-reactive protein and AIM2 methylation as a marker for PTSD in Australian Vietnam veterans",
+          "year": 2021,
+          "doi": "https://doi.org/10.1016/j.gene.2021.145898",
+          "openalex_id": "https://openalex.org/W3188214658",
+          "url": "https://doi.org/10.1016/j.gene.2021.145898",
+          "is_last_author": false
+        }
+      ],
+      "grants": [],
+      "linked_programs": [],
+      "why_match": "Your interest in PTSD in military veterans aligns with my work on examining individual and synergistic contributions of PTSD and genetics to blood pressure, as well as investigating C-reactive protein and AIM2 methylation as a marker for PTSD. I'm also impressed by your background in Clinical Psychology at TISS, which could provide valuable insights into the psychological aspects of PTSD. I'd be interested in discussing how our research interests intersect."
+    },
+    {
+      "supervisor_id": "A5079611356",
+      "name": "Jack Tsai",
+      "institution": "Department of Veterans Affairs",
+      "country": "AU",
+      "contact_email": null,
+      "research_focus": "Homelessness and Social Issues, Food Security and Health in Diverse Populations, Posttraumatic Stress Disorder Research, Health disparities and outcomes, Substance Abuse Treatment and Outcomes",
+      "matched_area": "PTSD in military veterans",
+      "tier": "target",
+      "score": 0.688,
+      "papers": [
+        {
+          "title": "Disentangling the association between PTSD symptom heterogeneity and alcohol use disorder: Results from the 2019–2020 National Health and Resilience in Veterans Study",
+          "year": 2021,
+          "doi": "https://doi.org/10.1016/j.jpsychires.2021.07.046",
+          "openalex_id": "https://openalex.org/W3190588244",
+          "url": "https://doi.org/10.1016/j.jpsychires.2021.07.046",
+          "is_last_author": false
+        },
+        {
+          "title": "Prevalence of Alzheimer's disease and related dementias among veterans experiencing housing insecurity",
+          "year": 2021,
+          "doi": "https://doi.org/10.1002/alz.12476",
+          "openalex_id": "https://openalex.org/W3212472033",
+          "url": "https://doi.org/10.1002/alz.12476",
+          "is_last_author": false
+        },
+        {
+          "title": "Associations between mental health and job loss among middle‐ and low‐income veterans and civilians during the COVID‐19 pandemic: An exploratory study",
+          "year": 2021,
+          "doi": "https://doi.org/10.1002/smi.3099",
+          "openalex_id": "https://openalex.org/W3200600095",
+          "url": "https://doi.org/10.1002/smi.3099",
+          "is_last_author": true
+        }
+      ],
+      "grants": [],
+      "linked_programs": [],
+      "why_match": "Your background in Clinical Psychology and interest in PTSD among military veterans align with my work on disentangling the association between PTSD symptom heterogeneity and alcohol use disorder, as well as exploring mental health outcomes among vulnerable populations. I believe our research interests could benefit from a multidisciplinary approach, combining psychological insights with epidemiological data."
+    },
+    {
+      "supervisor_id": "A5073903571",
+      "name": "Robert Vink",
+      "institution": "University of South Australia",
+      "country": "AU",
+      "contact_email": null,
+      "research_focus": "Traumatic Brain Injury and Neurovascular Disturbances, Traumatic Brain Injury Research, Magnesium in Health and Disease, S100 Proteins and Annexins, Neuropeptides and Animal Physiology",
+      "matched_area": "PTSD in military veterans",
+      "tier": "target",
+      "score": 0.688,
+      "papers": [
+        {
+          "title": "NK1 antagonists attenuate tau phosphorylation after blast and repeated concussive injury",
+          "year": 2021,
+          "doi": "https://doi.org/10.1038/s41598-021-88237-0",
+          "openalex_id": "https://openalex.org/W3154385647",
+          "url": "https://doi.org/10.1038/s41598-021-88237-0",
+          "is_last_author": true
+        }
+      ],
+      "grants": [
+        {
+          "title": "A mechanistic approach to therapy development for chronic traumatic encephalopathy using small and large animal models of concussion",
+          "funder": "National Health and Medical Research Council",
+          "funder_country": null,
+          "award_id": "1068712",
+          "funding_type": "research",
+          "url": "https://openalex.org/G4179872598"
+        }
+      ],
+      "linked_programs": [],
+      "why_match": "Your interest in PTSD in military veterans aligns with Dr. Vink's research on the effects of blast and repeated concussive injury, particularly his work on NK1 antagonists attenuating tau phosphorylation. This resonates with your M.Sc. background in Clinical Psychology at TISS. I'm excited about the potential for exploring mechanistic approaches to therapy development under his guidance."
+    },
+    {
+      "supervisor_id": "A5007666899",
+      "name": "Peter M. McEvoy",
+      "institution": "Curtin University",
+      "country": "AU",
+      "contact_email": null,
+      "research_focus": "Anxiety, Depression, Psychometrics, Treatment, Cognitive Processes, Child and Adolescent Psychosocial and Emotional Development, Mental Health Research Topics, Digital Mental Health Interventions, Obsessive-Compulsive Spectrum Disorders",
+      "matched_area": "PTSD in military veterans",
+      "tier": "target",
+      "score": 0.683,
+      "papers": [
+        {
+          "title": "Allowing nondisclosure in surveys with suicide content: Characteristics of nondisclosure in a national survey of emergency services personnel.",
+          "year": 2020,
+          "doi": "https://doi.org/10.1037/pas0000949",
+          "openalex_id": "https://openalex.org/W3092390045",
+          "url": "https://doi.org/10.1037/pas0000949",
+          "is_last_author": false
+        },
+        {
+          "title": "A narrative review of psychological theories of post‐traumatic stress disorder, voice hearing, and other psychotic symptoms",
+          "year": 2022,
+          "doi": "https://doi.org/10.1002/cpp.2754",
+          "openalex_id": "https://openalex.org/W4280514923",
+          "url": "https://doi.org/10.1002/cpp.2754",
+          "is_last_author": true
+        }
+      ],
+      "grants": [],
+      "linked_programs": [],
+      "why_match": "Your interest in PTSD among military veterans aligns with Dr. McEvoy's work on the topic, particularly his study on nondisclosure in surveys with suicide content, which could inform your research approach. His narrative review of psychological theories also suggests a strong foundation for exploring the complexities of PTSD. I believe my skills would complement Dr. McEvoy's expertise in this area."
+    },
+    {
+      "supervisor_id": "A5041624616",
+      "name": "Jason A. Nieuwsma",
+      "institution": "Department of Veterans Affairs",
+      "country": "AU",
+      "contact_email": null,
+      "research_focus": "Religion, Spirituality, and Psychology, Posttraumatic Stress Disorder Research, Suicide and Self-Harm Studies, Grief, Bereavement, and Mental Health, Mental Health Treatment and Access",
+      "matched_area": "PTSD in military veterans",
+      "tier": "target",
+      "score": 0.683,
+      "papers": [
+        {
+          "title": "Patterns of Potential Moral Injury in Post-9/11 Combat Veterans and COVID-19 Healthcare Workers",
+          "year": 2022,
+          "doi": "https://doi.org/10.1007/s11606-022-07487-4",
+          "openalex_id": "https://openalex.org/W4223597705",
+          "url": "https://doi.org/10.1007/s11606-022-07487-4",
+          "is_last_author": false
+        },
+        {
+          "title": "Core components of moral injury groups co-facilitated by mental health providers and chaplains.",
+          "year": 2022,
+          "doi": "https://doi.org/10.1037/scp0000297",
+          "openalex_id": "https://openalex.org/W4281684156",
+          "url": "https://doi.org/10.1037/scp0000297",
+          "is_last_author": true
+        }
+      ],
+      "grants": [],
+      "linked_programs": [],
+      "why_match": "Your interest in PTSD among military veterans aligns with my work on moral injury, particularly in the context of post-9/11 combat veterans and COVID-19 healthcare workers. I've developed core components for moral injury groups co-facilitated by mental health providers and chaplains, which could inform your research approach. My expertise in this area could provide a valuable foundation for your studies."
+    },
+    {
+      "supervisor_id": "A5037553478",
+      "name": "Adam McKay",
+      "institution": "Epworth Hospital",
+      "country": "AU",
+      "contact_email": null,
+      "research_focus": "Traumatic Brain Injury Research, Stroke Rehabilitation and Recovery, Traumatic Brain Injury and Neurovascular Disturbances, Sleep and related disorders, Posttraumatic Stress Disorder Research",
+      "matched_area": "PTSD in military veterans",
+      "tier": "target",
+      "score": 0.683,
+      "papers": [
+        {
+          "title": "Interdisciplinary Rehabilitation for Concussion Recovery (i-RECOveR): protocol of an investigator-blinded, randomised, case series with multiple baseline design to evaluate the feasibility and preliminary efficacy of a 12-week treatment for persistent post-concussion symptoms",
+          "year": 2022,
+          "doi": "https://doi.org/10.1186/s40814-022-01153-6",
+          "openalex_id": "https://openalex.org/W4294586759",
+          "url": "https://doi.org/10.1186/s40814-022-01153-6",
+          "is_last_author": false
+        },
+        {
+          "title": "Effectiveness of Non-Pharmacological Interventions for Agitation during Post-Traumatic Amnesia following Traumatic Brain Injury: A Systematic Review",
+          "year": 2022,
+          "doi": "https://doi.org/10.1007/s11065-022-09544-5",
+          "openalex_id": "https://openalex.org/W4281778758",
+          "url": "https://doi.org/10.1007/s11065-022-09544-5",
+          "is_last_author": true
+        }
+      ],
+      "grants": [],
+      "linked_programs": [],
+      "why_match": "Dr. McKay's work on interdisciplinary rehabilitation for concussion recovery and non-pharmacological interventions for agitation during post-traumatic amnesia is directly related to your interests in PTSD in military veterans. Your M.Sc. background has equipped you with a solid understanding of clinical psychology principles, which would be an asset in exploring the effectiveness of these interventions under Dr. McKay's supervision."
+    },
+    {
+      "supervisor_id": "A5055337948",
+      "name": "Kristine Yaffe",
+      "institution": "Department of Veterans Affairs",
+      "country": "AU",
+      "contact_email": null,
+      "research_focus": "Dementia and Cognitive Impairment Research, Sleep and related disorders, Alzheimer's disease research and treatments, Traumatic Brain Injury Research, Nutritional Studies and Diet",
+      "matched_area": "PTSD in military veterans",
+      "tier": "target",
+      "score": 0.679,
+      "papers": [
+        {
+          "title": "Traumatic Brain Injury and Long-Term Risk of Stroke Among US Military Veterans",
+          "year": 2023,
+          "doi": "https://doi.org/10.1161/strokeaha.123.042360",
+          "openalex_id": "https://openalex.org/W4381157958",
+          "url": "https://doi.org/10.1161/strokeaha.123.042360",
+          "is_last_author": true
+        }
+      ],
+      "grants": [],
+      "linked_programs": [],
+      "why_match": "Dr. Yaffe's work on Traumatic Brain Injury and Long-Term Risk of Stroke Among US Military Veterans demonstrates her focus on the intersection of physical and psychological trauma, which is relevant to your interests in PTSD among military veterans. Her research highlights the importance of considering the long-term consequences of traumatic experiences, a key aspect of your proposed study."
+    },
+    {
+      "supervisor_id": "A5025255972",
+      "name": "Melinda Fitzgerald",
+      "institution": "Curtin University",
+      "country": "AU",
+      "contact_email": null,
+      "research_focus": "Pain Mechanisms and Treatments, Traumatic Brain Injury and Neurovascular Disturbances, Pediatric Pain Management Techniques, Traumatic Brain Injury Research, Nerve injury and regeneration",
+      "matched_area": "PTSD in military veterans",
+      "tier": "target",
+      "score": 0.679,
+      "papers": [
+        {
+          "title": "Cannabinoids in traumatic brain injury and related neuropathologies: preclinical and clinical research on endogenous, plant-derived, and synthetic compounds",
+          "year": 2023,
+          "doi": "https://doi.org/10.1186/s12974-023-02734-9",
+          "openalex_id": "https://openalex.org/W4327862376",
+          "url": "https://doi.org/10.1186/s12974-023-02734-9",
+          "is_last_author": true
+        }
+      ],
+      "grants": [],
+      "linked_programs": [],
+      "why_match": "Your interest in PTSD in military veterans intersects with my work on cannabinoids' potential therapeutic applications in traumatic brain injury. I've explored the effects of endogenous, plant-derived, and synthetic compounds, which could provide valuable insights for your research."
+    },
+    {
+      "supervisor_id": "A5014495764",
+      "name": "Skye McDonald",
+      "institution": "UNSW Sydney",
+      "country": "AU",
+      "contact_email": null,
+      "research_focus": "Traumatic Brain Injury Research, Neurobiology of Language and Bilingualism, Psychosomatic Disorders and Their Treatments, Autism Spectrum Disorder Research, Neural and Behavioral Psychology Studies",
+      "matched_area": "PTSD in military veterans",
+      "tier": "target",
+      "score": 0.679,
+      "papers": [
+        {
+          "title": "A Biopsychosocial Framework for Apathy Following Moderate to Severe Traumatic Brain Injury: A Systematic Review and Meta-analysis",
+          "year": 2023,
+          "doi": "https://doi.org/10.1007/s11065-023-09620-4",
+          "openalex_id": "https://openalex.org/W4389943713",
+          "url": "https://doi.org/10.1007/s11065-023-09620-4",
+          "is_last_author": true
+        }
+      ],
+      "grants": [],
+      "linked_programs": [],
+      "why_match": "Dr. McDonald's biopsychosocial framework for apathy following traumatic brain injury is relevant to your interests, given its focus on moderate to severe TBI and systematic review methodology. Your M.Sc. in Clinical Psychology has likely provided a strong foundation for understanding the complexities of PTSD and TBI. I believe Dr. McDonald's expertise would be valuable in exploring these issues further."
+    },
+    {
+      "supervisor_id": "A5028539195",
+      "name": "Dana Wong",
+      "institution": "La Trobe University",
+      "country": "AU",
+      "contact_email": null,
+      "research_focus": "Traumatic Brain Injury Research, Stroke Rehabilitation and Recovery, Dementia and Cognitive Impairment Research, Autism Spectrum Disorder Research, Neurobiology of Language and Bilingualism",
+      "matched_area": "PTSD in military veterans",
+      "tier": "target",
+      "score": 0.679,
+      "papers": [
+        {
+          "title": "Combined Cognitive and Psychological Interventions Improve Meaningful Outcomes after Acquired Brain Injury: A Systematic Review and Meta-Analysis",
+          "year": 2023,
+          "doi": "https://doi.org/10.1007/s11065-023-09625-z",
+          "openalex_id": "https://openalex.org/W4388635915",
+          "url": "https://doi.org/10.1007/s11065-023-09625-z",
+          "is_last_author": true
+        }
+      ],
+      "grants": [],
+      "linked_programs": [],
+      "why_match": "Your passion for understanding PTSD in military veterans resonates with my work on combined cognitive and psychological interventions after acquired brain injury. I'm drawn to your M.Sc. in Clinical Psychology and believe you'd be a valuable asset in synthesizing the existing literature and identifying areas for future research. Your contributions could help inform more effective treatment strategies."
+    },
+    {
+      "supervisor_id": "A5023946743",
+      "name": "Madeline Romaniuk",
+      "institution": "Australian National University",
+      "country": "AU",
+      "contact_email": null,
+      "research_focus": "Posttraumatic Stress Disorder Research, Resilience and Mental Health, Education and Military Integration, Physical Activity and Health, Healthcare professionals’ stress and burnout",
+      "matched_area": "PTSD in military veterans",
+      "tier": "target",
+      "score": 0.662,
+      "papers": [
+        {
+          "title": "Compassionate mind training for ex‐service personnel with PTSD and their partners",
+          "year": 2023,
+          "doi": "https://doi.org/10.1002/cpp.2825",
+          "openalex_id": "https://openalex.org/W4316174766",
+          "url": "https://doi.org/10.1002/cpp.2825",
+          "is_last_author": false
+        },
+        {
+          "title": "Evaluation of mental health first aid training for family members of military veterans with a mental health condition",
+          "year": 2021,
+          "doi": "https://doi.org/10.1186/s12888-021-03139-9",
+          "openalex_id": "https://openalex.org/W3134066738",
+          "url": "https://doi.org/10.1186/s12888-021-03139-9",
+          "is_last_author": false
+        },
+        {
+          "title": "Obtaining and retaining employment post military service: A qualitative analysis of challenges experienced by Australian veterans",
+          "year": 2022,
+          "doi": "https://doi.org/10.1002/joec.12199",
+          "openalex_id": "https://openalex.org/W4289519608",
+          "url": "https://doi.org/10.1002/joec.12199",
+          "is_last_author": false
+        },
+        {
+          "title": "Feasibility, acceptability, and initial outcomes of a psychological adjustment and reintegration program for transitioned military veterans",
+          "year": 2024,
+          "doi": "https://doi.org/10.1186/s40359-024-02097-7",
+          "openalex_id": "https://openalex.org/W4403882260",
+          "url": "https://doi.org/10.1186/s40359-024-02097-7",
+          "is_last_author": false
+        }
+      ],
+      "grants": [],
+      "linked_programs": [],
+      "why_match": "Dr. Romaniuk's research on compassionate mind training for ex-service personnel and their partners shows her commitment to holistic, person-centered interventions for PTSD. Her work also highlights the importance of supporting family members of military veterans, which could be an interesting area for you to explore."
+    },
+    {
+      "supervisor_id": "A5063378247",
+      "name": "Lisa Dell",
+      "institution": "The University of Melbourne",
+      "country": "AU",
+      "contact_email": null,
+      "research_focus": "Posttraumatic Stress Disorder Research, Resilience and Mental Health, Traumatic Brain Injury Research, Suicide and Self-Harm Studies, Child Abuse and Trauma",
+      "matched_area": "PTSD in military veterans",
+      "tier": "reach",
+      "score": 0.655,
+      "papers": [
+        {
+          "title": "Massed <i>v</i>. standard prolonged exposure therapy for PTSD in military personnel and veterans: 12-month follow-up of a non-inferiority randomised controlled trial",
+          "year": 2023,
+          "doi": "https://doi.org/10.1017/s0033291723000405",
+          "openalex_id": "https://openalex.org/W4324018717",
+          "url": "https://doi.org/10.1017/s0033291723000405",
+          "is_last_author": false
+        },
+        {
+          "title": "Mental health across the early years in the military",
+          "year": 2022,
+          "doi": "https://doi.org/10.1017/s0033291722000332",
+          "openalex_id": "https://openalex.org/W4213430770",
+          "url": "https://doi.org/10.1017/s0033291722000332",
+          "is_last_author": false
+        },
+        {
+          "title": "The interplay between social interaction quality and wellbeing in military personnel during their initial two-years of service",
+          "year": 2022,
+          "doi": "https://doi.org/10.1080/08995605.2021.2015937",
+          "openalex_id": "https://openalex.org/W4206154369",
+          "url": "https://doi.org/10.1080/08995605.2021.2015937",
+          "is_last_author": true
+        },
+        {
+          "title": "Massed versus standard prolonged exposure for posttraumatic stress disorder in Australian military and veteran populations (RESTORE trial): Study protocol for a non-inferiority randomized controlled trial",
+          "year": 2021,
+          "doi": "https://doi.org/10.1016/j.cct.2021.106478",
+          "openalex_id": "https://openalex.org/W3169644209",
+          "url": "https://doi.org/10.1016/j.cct.2021.106478",
+          "is_last_author": false
+        }
+      ],
+      "grants": [
+        {
+          "title": "Optimising mental health and quality of life for Australia’s military personnel and veterans with PTSD",
+          "funder": "National Health and Medical Research Council",
+          "funder_country": null,
+          "award_id": "1110932",
+          "funding_type": "grant",
+          "url": "https://openalex.org/G5223721830"
+        }
+      ],
+      "linked_programs": [],
+      "why_match": "Your interest in PTSD in military veterans aligns with Dr. Lisa Dell's work on massed vs standard prolonged exposure therapy, which has shown promising results in a non-inferiority randomised controlled trial. Her research also explores the interplay between social interaction quality and wellbeing in military personnel, an area that could complement your clinical psychology background."
+    },
+    {
+      "supervisor_id": "A5055974422",
+      "name": "Melanie K. T. Takarangi",
+      "institution": "Flinders University",
+      "country": "AU",
+      "contact_email": null,
+      "research_focus": "Memory Processes and Influences, Posttraumatic Stress Disorder Research, Identity, Memory, and Therapy, Deception detection and forensic psychology, Cognitive Functions and Memory",
+      "matched_area": "PTSD in military veterans",
+      "tier": "reach",
+      "score": 0.646,
+      "papers": [
+        {
+          "title": "Why the COVID-19 pandemic is a traumatic stressor",
+          "year": 2021,
+          "doi": "https://doi.org/10.1371/journal.pone.0240146",
+          "openalex_id": "https://openalex.org/W3119633778",
+          "url": "https://doi.org/10.1371/journal.pone.0240146",
+          "is_last_author": true
+        },
+        {
+          "title": "Why the COVID-19 pandemic is a traumatic stressor",
+          "year": 2020,
+          "doi": "https://doi.org/10.1101/2020.09.22.307637",
+          "openalex_id": "https://openalex.org/W3087800612",
+          "url": "https://doi.org/10.1101/2020.09.22.307637",
+          "is_last_author": true
+        }
+      ],
+      "grants": [],
+      "linked_programs": [],
+      "why_match": "Melanie K. T. Takarangi's work on traumatic stressors during the COVID-19 pandemic shows a keen understanding of the impact of trauma on individuals and communities. While her focus is broader than PTSD in military veterans, it suggests a willingness to explore the intersections between trauma and other contexts, which could be relevant to your research goals."
+    },
+    {
+      "supervisor_id": "A5089466584",
+      "name": "Simon F. Crowe",
+      "institution": "La Trobe University",
+      "country": "AU",
+      "contact_email": null,
+      "research_focus": "Memory and Neural Mechanisms, Traumatic Brain Injury Research, Neuroscience and Neuropharmacology Research, Dementia and Cognitive Impairment Research, Helicobacter pylori-related gastroenterology studies",
+      "matched_area": "PTSD in military veterans",
+      "tier": "reach",
+      "score": 0.642,
+      "papers": [
+        {
+          "title": "Objective Cognitive Outcomes and Subjective Emotional Sequelae in Litigating Adults with a Traumatic Brain Injury: The Impact of Performance and Symptom Validity Measures",
+          "year": 2022,
+          "doi": "https://doi.org/10.1093/arclin/acac039",
+          "openalex_id": "https://openalex.org/W4282971944",
+          "url": "https://doi.org/10.1093/arclin/acac039",
+          "is_last_author": true
+        }
+      ],
+      "grants": [],
+      "linked_programs": [],
+      "why_match": "Your interest in PTSD in military veterans aligns with Dr. Crowe's work on traumatic brain injury, where he investigated the impact of performance and symptom validity measures on cognitive outcomes. This research area is particularly relevant to your background in clinical psychology and experience working with trauma-related disorders."
+    },
+    {
+      "supervisor_id": "A5049893619",
+      "name": "Jemma Todd",
+      "institution": "The University of Sydney",
+      "country": "AU",
+      "contact_email": null,
+      "research_focus": "Anxiety, Depression, Psychometrics, Treatment, Cognitive Processes, Musculoskeletal pain and rehabilitation, Pain Management and Placebo Effect, Behavioral Health and Interventions, Mental Health Research Topics",
+      "matched_area": "PTSD in military veterans",
+      "tier": "reach",
+      "score": 0.642,
+      "papers": [
+        {
+          "title": "For there is nothing either good or bad: a study of the mediating effect of interpretation bias on the association between mindfulness and reduced post-traumatic stress vulnerability",
+          "year": 2022,
+          "doi": "https://doi.org/10.1186/s12888-022-03950-y",
+          "openalex_id": "https://openalex.org/W4280603836",
+          "url": "https://doi.org/10.1186/s12888-022-03950-y",
+          "is_last_author": true
+        }
+      ],
+      "grants": [],
+      "linked_programs": [],
+      "why_match": "Dr. Todd's research on the mediating effect of interpretation bias on the association between mindfulness and reduced post-traumatic stress vulnerability is particularly relevant to my interests, as it suggests a potential pathway for mitigating PTSD symptoms through mindfulness-based interventions."
+    },
+    {
+      "supervisor_id": "A5014927127",
+      "name": "Catherine Willmott",
+      "institution": "Mental Health Research Institute",
+      "country": "AU",
+      "contact_email": null,
+      "research_focus": "Traumatic Brain Injury Research, Traumatic Brain Injury and Neurovascular Disturbances, Sports injuries and prevention, Stroke Rehabilitation and Recovery, Cardiac Arrest and Resuscitation",
+      "matched_area": "PTSD in military veterans",
+      "tier": "reach",
+      "score": 0.642,
+      "papers": [
+        {
+          "title": "Interdisciplinary Rehabilitation for Concussion Recovery (i-RECOveR): protocol of an investigator-blinded, randomised, case series with multiple baseline design to evaluate the feasibility and preliminary efficacy of a 12-week treatment for persistent post-concussion symptoms",
+          "year": 2022,
+          "doi": "https://doi.org/10.1186/s40814-022-01153-6",
+          "openalex_id": "https://openalex.org/W4294586759",
+          "url": "https://doi.org/10.1186/s40814-022-01153-6",
+          "is_last_author": true
+        }
+      ],
+      "grants": [],
+      "linked_programs": [],
+      "why_match": "Your interest in PTSD in military veterans aligns with my work on the i-RECOveR study, which explores a novel treatment approach for persistent post-concussion symptoms. I'm impressed by your background in Clinical Psychology and believe you'd be an excellent fit to contribute to this research. Your expertise could help inform the development of more effective interventions for veterans."
+    },
+    {
+      "supervisor_id": "A5040939345",
+      "name": "Marlies Alvarenga",
+      "institution": "Federation University",
+      "country": "AU",
+      "contact_email": null,
+      "research_focus": "Cardiac Health and Mental Health, Heart Rate Variability and Autonomic Control, Anxiety, Depression, Psychometrics, Treatment, Cognitive Processes, Psychosomatic Disorders and Their Treatments, Music Therapy and Health",
+      "matched_area": "PTSD in military veterans",
+      "tier": "reach",
+      "score": 0.642,
+      "papers": [
+        {
+          "title": "Editorial: Psychocardiology then and now – the genesis of a discipline",
+          "year": 2022,
+          "doi": "https://doi.org/10.3389/fpsyt.2022.988393",
+          "openalex_id": "https://openalex.org/W4291926557",
+          "url": "https://doi.org/10.3389/fpsyt.2022.988393",
+          "is_last_author": true
+        }
+      ],
+      "grants": [],
+      "linked_programs": [],
+      "why_match": "I'm impressed by your editorial 'Psychocardiology then and now – the genesis of a discipline' which highlights the importance of interdisciplinary approaches to understanding cardiovascular disease in veterans with PTSD. As someone interested in PTSD in military veterans, I believe that your work on psychocardiology would be a great fit for my research goals."
+    },
+    {
+      "supervisor_id": "A5063079719",
+      "name": "David J. Kavanagh",
+      "institution": "Queensland University of Technology",
+      "country": "AU",
+      "contact_email": null,
+      "research_focus": "Substance Abuse Treatment and Outcomes, Digital Mental Health Interventions, Schizophrenia research and treatment, Child and Adolescent Psychosocial and Emotional Development, Mental Health Treatment and Access",
+      "matched_area": "PTSD in military veterans",
+      "tier": "reach",
+      "score": 0.608,
+      "papers": [
+        {
+          "title": "Clinicians' perceptions of PTSD Coach Australia",
+          "year": 2020,
+          "doi": "https://doi.org/10.1016/j.invent.2020.100333",
+          "openalex_id": "https://openalex.org/W3074114022",
+          "url": "https://doi.org/10.1016/j.invent.2020.100333",
+          "is_last_author": true
+        },
+        {
+          "title": "Experiences of Serving and Ex-Serving Members With the PTSD Coach Australia App: Mixed Methods Study",
+          "year": 2020,
+          "doi": "https://doi.org/10.2196/18447",
+          "openalex_id": "https://openalex.org/W3044700481",
+          "url": "https://doi.org/10.2196/18447",
+          "is_last_author": true
+        }
+      ],
+      "grants": [],
+      "linked_programs": [],
+      "why_match": "Dr. Kavanagh's work on the PTSD Coach Australia app, including clinicians' perceptions and serving members' experiences, demonstrates his focus on practical applications of PTSD treatment. This aligns with your interests in addressing PTSD in military veterans through innovative approaches."
+    },
+    {
+      "supervisor_id": "A5025830131",
+      "name": "Rhys D. Brady",
+      "institution": "The University of Melbourne",
+      "country": "AU",
+      "contact_email": null,
+      "research_focus": "Traumatic Brain Injury and Neurovascular Disturbances, Traumatic Brain Injury Research, S100 Proteins and Annexins, Epilepsy research and treatment, Cardiac Arrest and Resuscitation",
+      "matched_area": "PTSD in military veterans",
+      "tier": "reach",
+      "score": 0.608,
+      "papers": [
+        {
+          "title": "The interaction of the circadian and immune system: Desynchrony as a pathological outcome to traumatic brain injury",
+          "year": 2020,
+          "doi": "https://doi.org/10.1016/j.nbscr.2020.100058",
+          "openalex_id": "https://openalex.org/W3093449024",
+          "url": "https://doi.org/10.1016/j.nbscr.2020.100058",
+          "is_last_author": false
+        },
+        {
+          "title": "Neurological heterotopic ossification: novel mechanisms, prognostic biomarkers and prophylactic therapies",
+          "year": 2020,
+          "doi": "https://doi.org/10.1038/s41413-020-00119-9",
+          "openalex_id": "https://openalex.org/W3113216470",
+          "url": "https://doi.org/10.1038/s41413-020-00119-9",
+          "is_last_author": true
+        }
+      ],
+      "grants": [],
+      "linked_programs": [],
+      "why_match": "Your focus on PTSD in military veterans resonates with my work on the circadian and immune system's interaction following traumatic brain injury. I've also investigated novel mechanisms and prognostic biomarkers for neurological heterotopic ossification, which could be relevant to your research interests."
+    },
+    {
+      "supervisor_id": "A5079037833",
+      "name": "Simon Rosenbaum",
+      "institution": "Black Dog Institute",
+      "country": "AU",
+      "contact_email": null,
+      "research_focus": "Physical Activity and Health, Schizophrenia research and treatment, Cardiac Health and Mental Health, Eating Disorders and Behaviors, COVID-19 and Mental Health",
+      "matched_area": "PTSD in military veterans",
+      "tier": "reach",
+      "score": 0.604,
+      "papers": [
+        {
+          "title": "Trauma and Mental Health Awareness in Emergency Service Workers: A Qualitative Evaluation of the Behind the Seen Education Workshops",
+          "year": 2021,
+          "doi": "https://doi.org/10.3390/ijerph18094418",
+          "openalex_id": "https://openalex.org/W3153585971",
+          "url": "https://doi.org/10.3390/ijerph18094418",
+          "is_last_author": true
+        }
+      ],
+      "grants": [],
+      "linked_programs": [],
+      "why_match": "Your research interests in PTSD among military veterans overlap with my work on 'Trauma and Mental Health Awareness in Emergency Service Workers', which evaluated the effectiveness of education workshops. I'm impressed by your background in Clinical Psychology, and I think our collaboration could inform evidence-based interventions for this high-risk group."
+    },
+    {
+      "supervisor_id": "A5031058055",
+      "name": "Leanne Togher",
+      "institution": "The University of Sydney",
+      "country": "AU",
+      "contact_email": null,
+      "research_focus": "Traumatic Brain Injury Research, Neurobiology of Language and Bilingualism, Stroke Rehabilitation and Recovery, Assistive Technology in Communication and Mobility, Interpreting and Communication in Healthcare",
+      "matched_area": "PTSD in military veterans",
+      "tier": "reach",
+      "score": 0.604,
+      "papers": [
+        {
+          "title": "Recommendations for the Design and Implementation of Virtual Reality for Acquired Brain Injury Rehabilitation: Systematic Review",
+          "year": 2021,
+          "doi": "https://doi.org/10.2196/26344",
+          "openalex_id": "https://openalex.org/W3185133653",
+          "url": "https://doi.org/10.2196/26344",
+          "is_last_author": true
+        }
+      ],
+      "grants": [],
+      "linked_programs": [],
+      "why_match": "Dr. Togher's work on virtual reality for acquired brain injury rehabilitation shares similarities with your goals, particularly in addressing cognitive and communication challenges associated with PTSD. Her expertise would provide a valuable foundation for exploring innovative treatment approaches."
+    },
+    {
+      "supervisor_id": "A5067585567",
+      "name": "Victoria B. Risbrough",
+      "institution": "Department of Veterans Affairs",
+      "country": "AU",
+      "contact_email": null,
+      "research_focus": "Stress Responses and Cortisol, Tryptophan and brain disorders, Memory and Neural Mechanisms, Posttraumatic Stress Disorder Research, Traumatic Brain Injury Research",
+      "matched_area": "PTSD in military veterans",
+      "tier": "reach",
+      "score": 0.567,
+      "papers": [
+        {
+          "title": "C‐Reactive Protein: Marker of risk for post‐traumatic stress disorder and its potential for a mechanistic role in trauma response and recovery",
+          "year": 2020,
+          "doi": "https://doi.org/10.1111/ejn.15031",
+          "openalex_id": "https://openalex.org/W3095090245",
+          "url": "https://doi.org/10.1111/ejn.15031",
+          "is_last_author": true
+        }
+      ],
+      "grants": [],
+      "linked_programs": [],
+      "why_match": "Dr. Risbrough's work on C-Reactive Protein as a marker for PTSD risk suggests a focus on biological mechanisms underlying trauma response, which could provide a unique perspective to my research. Her emphasis on mechanistic roles in trauma recovery also indicates an interest in translational research that I share. I believe Dr. Risbrough's expertise would be a great fit for exploring the intersection of biology and psychology in PTSD."
+    },
+    {
+      "supervisor_id": "A5011506716",
+      "name": "Rajaa Alqudah",
+      "institution": "The University of Sydney",
+      "country": "AU",
+      "contact_email": null,
+      "research_focus": "Pharmaceutical Practices and Patient Outcomes, Antibiotic Use and Resistance, COVID-19 and Mental Health, Reproductive Health and Contraception, Smoking Behavior and Cessation",
+      "matched_area": "PTSD in military veterans",
+      "tier": "reach",
+      "score": 0.567,
+      "papers": [
+        {
+          "title": "Post-traumatic stress disorders among Syrian refugees residing in non-camp settings in Jordan",
+          "year": 2023,
+          "doi": "https://doi.org/10.15537/smj.2023.44.1.20220701",
+          "openalex_id": "https://openalex.org/W4315785923",
+          "url": "https://doi.org/10.15537/smj.2023.44.1.20220701",
+          "is_last_author": true
+        }
+      ],
+      "grants": [],
+      "linked_programs": [],
+      "why_match": "Your interest in PTSD among military veterans aligns with Dr. Alqudah's research on post-traumatic stress disorders among Syrian refugees, which highlights the importance of considering cultural and environmental factors in understanding trauma. Her work also underscores the need for nuanced approaches to addressing the mental health needs of displaced populations."
+    },
+    {
+      "supervisor_id": "A5083549748",
+      "name": "Grahame Simpson",
+      "institution": "Ingham Institute",
+      "country": "AU",
+      "contact_email": null,
+      "research_focus": "Traumatic Brain Injury Research, Stroke Rehabilitation and Recovery, Cardiac Arrest and Resuscitation, Resilience and Mental Health, Traumatic Brain Injury and Neurovascular Disturbances",
+      "matched_area": "PTSD in military veterans",
+      "tier": "reach",
+      "score": 0.567,
+      "papers": [
+        {
+          "title": "Living with suicidality following traumatic brain injury: a qualitative study",
+          "year": 2020,
+          "doi": "https://doi.org/10.1080/02699052.2020.1763463",
+          "openalex_id": "https://openalex.org/W3021781338",
+          "url": "https://doi.org/10.1080/02699052.2020.1763463",
+          "is_last_author": true
+        }
+      ],
+      "grants": [],
+      "linked_programs": [],
+      "why_match": "Dr. Simpson's qualitative study on living with suicidality following traumatic brain injury resonates with your focus on PTSD in military veterans. His work highlights the importance of understanding the complex experiences of individuals affected by TBI and PTSD, which could be a valuable area for exploration."
+    },
+    {
+      "supervisor_id": "A5010443443",
+      "name": "Elizabeth Seabrook",
+      "institution": "Swinburne University of Technology",
+      "country": "AU",
+      "contact_email": null,
+      "research_focus": "Digital Mental Health Interventions, Mental Health Research Topics, Mindfulness and Compassion Interventions, Virtual Reality Applications and Impacts, Telemedicine and Telehealth Implementation",
+      "matched_area": "PTSD in military veterans",
+      "tier": "reach",
+      "score": 0.545,
+      "papers": [
+        {
+          "title": "Review of the current empirical literature on using videoconferencing to deliver individual psychotherapies to adults with mental health problems",
+          "year": 2021,
+          "doi": "https://doi.org/10.1111/papt.12332",
+          "openalex_id": "https://openalex.org/W3129452557",
+          "url": "https://doi.org/10.1111/papt.12332",
+          "is_last_author": true
+        },
+        {
+          "title": "Videoconferencing Psychotherapy in the Public Sector: Synthesis and Model for Implementation",
+          "year": 2020,
+          "doi": "https://doi.org/10.2196/14996",
+          "openalex_id": "https://openalex.org/W3000777482",
+          "url": "https://doi.org/10.2196/14996",
+          "is_last_author": false
+        },
+        {
+          "title": "Digital-Based Interventions for Complex Post-Traumatic Stress Disorder: A Systematic Literature Review",
+          "year": 2024,
+          "doi": "https://doi.org/10.1177/15248380241238760",
+          "openalex_id": "https://openalex.org/W4393225857",
+          "url": "https://doi.org/10.1177/15248380241238760",
+          "is_last_author": false
+        }
+      ],
+      "grants": [],
+      "linked_programs": [],
+      "why_match": "Your interest in PTSD in military veterans aligns with my work on videoconferencing psychotherapy, which has shown promise in delivering individual therapies to adults with mental health problems. I'm also interested in exploring digital-based interventions for complex PTSD, as discussed in my systematic literature review. Your background in Clinical Psychology at TISS would be a valuable asset in this area."
+    },
+    {
+      "supervisor_id": "A5063824396",
+      "name": "Jonathan Lane",
+      "institution": "University of Tasmania",
+      "country": "AU",
+      "contact_email": null,
+      "research_focus": "Posttraumatic Stress Disorder Research, Education and Military Integration, Mental Health Treatment and Access, Migration, Health and Trauma, Healthcare professionals’ stress and burnout",
+      "matched_area": "PTSD in military veterans",
+      "tier": "reach",
+      "score": 0.508,
+      "papers": [
+        {
+          "title": "No Women’s Land: Australian Women Veterans’ Experiences of the Culture of Military Service and Transition",
+          "year": 2024,
+          "doi": "https://doi.org/10.3390/ijerph21040479",
+          "openalex_id": "https://openalex.org/W4394822073",
+          "url": "https://doi.org/10.3390/ijerph21040479",
+          "is_last_author": false
+        },
+        {
+          "title": "Australian Women Veterans’ Experiences of Gendered Disempowerment and Abuse Within Military Service and Transition",
+          "year": 2025,
+          "doi": "https://doi.org/10.3390/ijerph22040584",
+          "openalex_id": "https://openalex.org/W4409335969",
+          "url": "https://doi.org/10.3390/ijerph22040584",
+          "is_last_author": false
+        },
+        {
+          "title": "Fallout: the psychosocial harms of negative military discharge experiences",
+          "year": 2025,
+          "doi": "https://doi.org/10.3389/fpsyg.2025.1521056",
+          "openalex_id": "https://openalex.org/W4410185868",
+          "url": "https://doi.org/10.3389/fpsyg.2025.1521056",
+          "is_last_author": true
+        }
+      ],
+      "grants": [],
+      "linked_programs": [],
+      "why_match": "Your focus on PTSD among military veterans resonates with my research on the experiences of Australian women veterans, including their struggles with gendered disempowerment and abuse within military service and transition. My work also explores the psychosocial harms of negative military discharge experiences, which could be a valuable area for you to investigate further."
+    },
+    {
+      "supervisor_id": "A5081496254",
+      "name": "Shane McIver",
+      "institution": "Deakin University",
+      "country": "AU",
+      "contact_email": null,
+      "research_focus": "Mindfulness and Compassion Interventions, Eating Disorders and Behaviors, Diversity and Impact of Dance, Anxiety, Depression, Psychometrics, Treatment, Cognitive Processes, Interprofessional Education and Collaboration",
+      "matched_area": "PTSD in military veterans",
+      "tier": "reach",
+      "score": 0.469,
+      "papers": [
+        {
+          "title": "Integration of hatha yoga and evidence‐based psychological treatments for common mental disorders: An evidence map",
+          "year": 2022,
+          "doi": "https://doi.org/10.1002/jclp.23338",
+          "openalex_id": "https://openalex.org/W4220662173",
+          "url": "https://doi.org/10.1002/jclp.23338",
+          "is_last_author": true
+        }
+      ],
+      "grants": [],
+      "linked_programs": [],
+      "why_match": "While my research primarily focuses on integrating hatha yoga with evidence-based psychological treatments, I'm intrigued by your interest in PTSD among military veterans. However, I don't have direct experience in this specific area, and our potential collaboration would require exploring how the principles of integrative health could be applied to address trauma-related mental health issues."
+    },
+    {
+      "supervisor_id": "A5109995234",
+      "name": "Andrew Khoo",
+      "institution": "Toowoomba Hospital",
+      "country": "AU",
+      "contact_email": null,
+      "research_focus": "Posttraumatic Stress Disorder Research, Suicide and Self-Harm Studies, Reconstructive Surgery and Microvascular Techniques, Pharmaceutical Practices and Patient Outcomes, Breast Implant and Reconstruction",
+      "matched_area": "PTSD in military veterans",
+      "tier": "reach",
+      "score": 0.462,
+      "papers": [
+        {
+          "title": "Prevalence of Complex Post-Traumatic Stress Disorder in Serving Military and Veteran Populations: A Systematic Review",
+          "year": 2024,
+          "doi": "https://doi.org/10.1177/15248380241246996",
+          "openalex_id": "https://openalex.org/W4395049251",
+          "url": "https://doi.org/10.1177/15248380241246996",
+          "is_last_author": true
+        },
+        {
+          "title": "Prevalence and factors associated with polypharmacy in military and veteran populations: A systematic review and meta-analysis",
+          "year": 2024,
+          "doi": "https://doi.org/10.1016/j.jad.2024.10.025",
+          "openalex_id": "https://openalex.org/W4403267292",
+          "url": "https://doi.org/10.1016/j.jad.2024.10.025",
+          "is_last_author": false
+        },
+        {
+          "title": "Polypharmacy in Australian Veterans with Post-traumatic Stress Disorder upon Admission to a Mental Health Facility: A Retrospective Chart Review",
+          "year": 2022,
+          "doi": "https://doi.org/10.1007/s40801-022-00298-3",
+          "openalex_id": "https://openalex.org/W4280535134",
+          "url": "https://doi.org/10.1007/s40801-022-00298-3",
+          "is_last_author": false
+        }
+      ],
+      "grants": [],
+      "linked_programs": [],
+      "why_match": "Dr. Khoo's work on complex post-traumatic stress disorder in serving military and veteran populations is relevant to your goals, as he has conducted systematic reviews and meta-analyses on the prevalence of PTSD among this group. His research also highlights the importance of addressing polypharmacy in veterans with PTSD."
+    },
+    {
+      "supervisor_id": "A5087256724",
+      "name": "Suzanna Azevedo",
+      "institution": "UNSW Sydney",
+      "country": "AU",
+      "contact_email": null,
+      "research_focus": "Posttraumatic Stress Disorder Research, COVID-19 and Mental Health, Grief, Bereavement, and Mental Health, Digital Mental Health Interventions, Obesity and Health Practices",
+      "matched_area": "PTSD in military veterans",
+      "tier": "reach",
+      "score": 0.454,
+      "papers": [
+        {
+          "title": "Augmenting trauma‐focused cognitive behavior therapy for post‐traumatic stress disorder with memory specificity training: a randomized controlled trial",
+          "year": 2025,
+          "doi": "https://doi.org/10.1002/wps.21280",
+          "openalex_id": "https://openalex.org/W4406403507",
+          "url": "https://doi.org/10.1002/wps.21280",
+          "is_last_author": true
+        }
+      ],
+      "grants": [],
+      "linked_programs": [],
+      "why_match": "Your interest in PTSD in military veterans aligns with Suzanna Azevedo's work on augmenting trauma-focused cognitive behavior therapy, which could inform your own research approach. Her randomized controlled trial provides a valuable framework for evaluating interventions. I'm interested in discussing how her methods might be applied to your area of study."
+    },
+    {
+      "supervisor_id": "A5126887799",
+      "name": "Ariel J. Lang",
+      "institution": "Department of Veterans Affairs",
+      "country": "AU",
+      "contact_email": null,
+      "research_focus": "Health, psychology, and well-being, Art Therapy and Mental Health, Posttraumatic Stress Disorder Research, Psychotherapy Techniques and Applications, Diabetes Management and Education",
+      "matched_area": "PTSD in military veterans",
+      "tier": "reach",
+      "score": 0.417,
+      "papers": [
+        {
+          "title": "Group therapy for men with histories of military sexual trauma: Treatment feasibility, acceptability, and symptom outcomes.",
+          "year": 2026,
+          "doi": "https://doi.org/10.1037/tra0002128",
+          "openalex_id": "https://openalex.org/W7131651654",
+          "url": "https://doi.org/10.1037/tra0002128",
+          "is_last_author": true
+        }
+      ],
+      "grants": [],
+      "linked_programs": [],
+      "why_match": "Your interest in PTSD among military veterans aligns with Dr. Lang's work on group therapy for men with histories of military sexual trauma, which demonstrated promising symptom outcomes. I'm drawn to the feasibility and acceptability aspects of her research, as it could inform my own approach to addressing this complex issue."
+    },
+    {
+      "supervisor_id": "A5102837614",
+      "name": "Divya Mehta",
+      "institution": "Queensland University of Technology",
+      "country": "AU",
+      "contact_email": null,
+      "research_focus": "Epigenetics and DNA Methylation, Identity, Memory, and Therapy, Child and Adolescent Psychosocial and Emotional Development, Posttraumatic Stress Disorder Research, Stress Responses and Cortisol",
+      "matched_area": "PTSD in military veterans",
+      "tier": "reach",
+      "score": 0.417,
+      "papers": [
+        {
+          "title": "A Pilot Epigenome-Wide Study of Posttraumatic Growth: Identifying Novel Candidates for Future Research",
+          "year": 2025,
+          "doi": "https://doi.org/10.3390/epigenomes9040039",
+          "openalex_id": "https://openalex.org/W4414853612",
+          "url": "https://doi.org/10.3390/epigenomes9040039",
+          "is_last_author": true
+        }
+      ],
+      "grants": [],
+      "linked_programs": [],
+      "why_match": "Your interest in PTSD in military veterans aligns with my work on epigenetic markers of posttraumatic growth, which seeks to identify novel candidates for future research. I'm impressed by your background in Clinical Psychology and believe you'd be an excellent fit to contribute to this cutting-edge research. Your expertise could help inform the development of more effective interventions for veterans."
+    },
+    {
+      "supervisor_id": "A5010180452",
+      "name": "Violette McGaw",
+      "institution": "Toowoomba Hospital",
+      "country": "AU",
+      "contact_email": null,
+      "research_focus": "Family Support in Illness, Posttraumatic Stress Disorder Research, Child Abuse and Trauma, Migration, Health and Trauma, Maternal Mental Health During Pregnancy and Postpartum",
+      "matched_area": "PTSD in military veterans",
+      "tier": "safety",
+      "score": 0.372,
+      "papers": [
+        {
+          "title": "The impact of childhood abuse on future military sexual assault and PTSD symptomology in Australian veterans",
+          "year": 2024,
+          "doi": "https://doi.org/10.1177/00048674241289027",
+          "openalex_id": "https://openalex.org/W4403810836",
+          "url": "https://doi.org/10.1177/00048674241289027",
+          "is_last_author": true
+        }
+      ],
+      "grants": [],
+      "linked_programs": [],
+      "why_match": "Dr. McGaw's study on the impact of childhood abuse on future military sexual assault and PTSD symptomology in Australian veterans resonates with me, given my background in clinical psychology and interest in understanding the long-term effects of trauma. Her work highlights the importance of considering early life experiences when working with veterans."
+    },
+    {
+      "supervisor_id": "A5004585342",
+      "name": "Marie Iannos",
+      "institution": "Services Australia",
+      "country": "AU",
+      "contact_email": null,
+      "research_focus": "Posttraumatic Stress Disorder Research, Child Abuse and Trauma, Human-Animal Interaction Studies, Child Welfare and Adoption, Veterinary Practice and Education Studies",
+      "matched_area": "PTSD in military veterans",
+      "tier": "safety",
+      "score": 0.357,
+      "papers": [
+        {
+          "title": "How a systematic review of the experiences of emergency first responder family members living with post-traumatic stress disorder can inform new models of care",
+          "year": 2023,
+          "doi": "https://doi.org/10.11124/jbies-23-00083",
+          "openalex_id": "https://openalex.org/W4365443887",
+          "url": "https://doi.org/10.11124/jbies-23-00083",
+          "is_last_author": true
+        }
+      ],
+      "grants": [],
+      "linked_programs": [],
+      "why_match": "Your interest in PTSD in military veterans aligns with my work on understanding the experiences of emergency first responder family members living with post-traumatic stress disorder. I believe your background in Clinical Psychology at TISS, combined with your research interests, would make you an excellent fit for exploring new models of care for this population."
+    },
+    {
+      "supervisor_id": "A5110574342",
+      "name": "Miriam Dwyer",
+      "institution": "The University of Queensland",
+      "country": "AU",
+      "contact_email": null,
+      "research_focus": "Posttraumatic Stress Disorder Research, Sleep and related disorders, Sleep and Wakefulness Research, Resilience and Mental Health, Obstructive Sleep Apnea Research",
+      "matched_area": "PTSD in military veterans",
+      "tier": "safety",
+      "score": 0.301,
+      "papers": [
+        {
+          "title": "Veteran families with complex needs: a qualitative study of the veterans’ support system",
+          "year": 2022,
+          "doi": "https://doi.org/10.1186/s12913-021-07368-2",
+          "openalex_id": "https://openalex.org/W4205910859",
+          "url": "https://doi.org/10.1186/s12913-021-07368-2",
+          "is_last_author": true
+        },
+        {
+          "title": "Investigation of C-reactive protein and AIM2 methylation as a marker for PTSD in Australian Vietnam veterans",
+          "year": 2021,
+          "doi": "https://doi.org/10.1016/j.gene.2021.145898",
+          "openalex_id": "https://openalex.org/W3188214658",
+          "url": "https://doi.org/10.1016/j.gene.2021.145898",
+          "is_last_author": false
+        }
+      ],
+      "grants": [],
+      "linked_programs": [],
+      "why_match": "Miriam Dwyer's qualitative study on veteran families with complex needs highlights the importance of considering the broader support system when addressing PTSD. Her work also demonstrates a commitment to understanding the unique challenges faced by military veterans, which resonates with your interests. I'd appreciate discussing how her research might inform your own investigation."
+    },
+    {
+      "supervisor_id": "A5110672846",
+      "name": "Dorothy Ratnarajah",
+      "institution": "University of New England",
+      "country": "AU",
+      "contact_email": null,
+      "research_focus": "Grief, Bereavement, and Mental Health, Migration, Health and Trauma, Posttraumatic Stress Disorder Research, Suicide and Self-Harm Studies, Homicide, Infanticide, and Child Abuse",
+      "matched_area": "PTSD in military veterans",
+      "tier": "safety",
+      "score": 0.289,
+      "papers": [
+        {
+          "title": "Invisible wounds and suicide: Moral injury and veteran mental health",
+          "year": 2020,
+          "doi": "https://doi.org/10.1111/inm.12704",
+          "openalex_id": "https://openalex.org/W3012179318",
+          "url": "https://doi.org/10.1111/inm.12704",
+          "is_last_author": true
+        }
+      ],
+      "grants": [],
+      "linked_programs": [],
+      "why_match": "Your interest in PTSD in military veterans resonates with my work on invisible wounds and suicide among veterans, particularly the concept of moral injury. As a Clinical Psychologist, you may appreciate the nuanced understanding of veteran mental health that this research provides. I'd be happy to discuss how our perspectives could complement each other."
+    }
+  ]
+}
