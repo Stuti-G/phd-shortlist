@@ -2,7 +2,7 @@
 
 This document details the architectural decisions, design trade-offs, and strategies implemented to address the data quality challenges outlined in the PhD Shortlist Builder assignment. 
 
-Guided by the primary grading rubric principle—**contamination is penalized heavier than coverage**—the system is designed as a strict, multi-stage "funnel of filters". Every gate defaults to **fail-closed**: when a candidate's identity, role, domain, or eligibility is ambiguous, they are dropped from the pipeline. 
+Guided by the primary grading rubric principle **contamination is penalized heavier than coverage**—the system is designed as a strict, multi-stage "funnel of filters". Every gate defaults to **fail-closed**: when a candidate's identity, role, domain, or eligibility is ambiguous, they are dropped from the pipeline. 
 
 All examples below refer to the pipeline output generated for student **106419** (Clinical Psychology; research interests: veteran/first-responder PTSD, disaster-survivor mental health, anthropology of Himalayan pilgrimage; target countries: US and Australia).
 
