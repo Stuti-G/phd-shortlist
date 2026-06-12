@@ -7,6 +7,8 @@ import time
 from pathlib import Path
 
 from .pipeline import run_pipeline
+from .feedback import build_priors, save_priors
+
 
 
 def main(argv=None) -> int:
@@ -14,7 +16,7 @@ def main(argv=None) -> int:
         from dotenv import load_dotenv
         load_dotenv()
     except Exception:
-        pass
+        print("Failed to load .env file")
 
     parser = argparse.ArgumentParser(prog="shortlist")
     sub = parser.add_subparsers(dest="cmd", required=True)
@@ -47,7 +49,6 @@ def main(argv=None) -> int:
         )
 
     elif args.cmd == "feedback":
-        from .feedback import build_priors, save_priors
         priors = build_priors(args.outcomes)
         save_priors(priors, args.out)
         print(

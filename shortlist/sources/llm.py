@@ -35,7 +35,7 @@ def _retry_delay_seconds(resp) -> float | None:
             if "RetryInfo" in d.get("@type", "") and d.get("retryDelay"):
                 return float(str(d["retryDelay"]).rstrip("s"))
     except Exception:
-        pass
+        print("Failed to parse retry delay from response:", resp.text[:200], file=sys.stderr)
     return None
 
 

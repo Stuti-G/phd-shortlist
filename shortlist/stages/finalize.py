@@ -63,6 +63,7 @@ def build_evidence(gp: GatedPI, oa: OpenAlex, max_papers: int = 4, max_grants: i
             try:
                 award = oa.award(aid)
             except Exception:
+                print(f"Failed to retrieve award {aid} for PI {pi.author_id}")
                 continue
             title = award.get("display_name") or ""
             if not title.strip():

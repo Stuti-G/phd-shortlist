@@ -1,18 +1,3 @@
-"""Stages 4 & 5 — disambiguation (FM 6.1) and the domain gate (FM 6.3).
-
-FM 6.1 (same-name-different-person): OpenAlex already resolves authors into stable IDs, so
-"Wei Wang" the materials scientist and "Wei Wang" the linguist are different IDs. That does
-most of the work for free. But ID resolution can still mis-merge, so I add a topic-overlap
-check: the author's OWN topic distribution must actually contain the student's area. If a
-"PTSD" candidate's body of work is 90% concrete durability, the ID is suspect — drop it.
-
-FM 6.3 (wrong-domain leakage): keyword overlap is a liar. "biodegradable plastic cartridges"
-is military ammo; a "trauma-informed" grant can be Roman literary history. So after the
-cheap embedding prefilter, I spend one LLM call per surviving PI asking a structured
-discipline + region question: does this researcher's ACTUAL work map onto the student's
-area? The model must answer with a discipline label and a yes/no, and justify against the
-PI's real focus — not the matching keyword.
-"""
 from __future__ import annotations
 
 from dataclasses import dataclass
@@ -22,7 +7,6 @@ import numpy as np
 from ..sources.llm import LLM
 from .resolve_pis import ResolvedPI
 
-# Lazy global so we load the embedding model once, not per call.
 _EMBEDDER = None
 
 
@@ -37,25 +21,18 @@ def _embedder():
 def _cos(a, b) -> float:
     return float(np.dot(a, b) / (np.linalg.norm(a) * np.linalg.norm(b) + 1e-9))
 
-
-# ----- Stage 4: topic-overlap disambiguation -----------------------------------
-
 def author_topic_names(rec: dict) -> list[str]:
     return [t.get("display_name", "") for t in rec.get("topics", [])[:10]]
 
 
 def disambiguation_ok(pi: ResolvedPI, area_embedding) -> bool:
-    """The PI's own topic distribution must be semantically near the student's area.
-    Cheap embedding check; catches mis-merged IDs and obvious off-topic surfacing."""
     topics = author_topic_names(pi.author_record)
     if not topics:
         return False
     emb = _embedder().encode(topics)
     best = max(_cos(area_embedding, t) for t in emb)
-    return best >= 0.30   # tuned loose; the LLM gate below is the strict one
+    return best >= 0.30   
 
-
-# ----- Stage 5: LLM domain gate -------------------------------------------------
 
 _GATE_SYS = (
     "You are a strict academic matching auditor. You receive a student's research area and "
@@ -70,8 +47,6 @@ _GATE_SYS = (
     "Set matches=false unless you are confident the disciplines align."
 )
 
-# Default PIs-per-call. Gemini's 1M TPM swallows big batches; Groq's free 6K TPM does not,
-# so we shrink per provider via llm.batch_size(). Override with GATE_BATCH_SIZE env var.
 GATE_BATCH_SIZE = 25
 
 
@@ -82,13 +57,9 @@ def _pi_line(idx: int, pi: ResolvedPI) -> str:
 
 
 def domain_gate_batch(pis: list[ResolvedPI], llm: LLM) -> list[tuple[ResolvedPI, str]]:
-    """Judge PIs in batches grouped by student area (so the question is coherent within a
-    call). Returns the survivors with their reason. Fail-closed: any PI the model doesn't
-    return a clear matches=true for is dropped."""
     survivors: list[tuple[ResolvedPI, str]] = []
-    batch_size = llm.batch_size(GATE_BATCH_SIZE)  # provider-aware: small for Groq
+    batch_size = llm.batch_size(GATE_BATCH_SIZE) 
 
-    # Group by area first — a batch should ask one area-question, not mix areas.
     by_area: dict[str, list[ResolvedPI]] = {}
     for p in pis:
         by_area.setdefault(p.area, []).append(p)
@@ -108,14 +79,12 @@ def domain_gate_batch(pis: list[ResolvedPI], llm: LLM) -> list[tuple[ResolvedPI,
 
             for i, p in enumerate(chunk):
                 v = verdicts.get(i)
-                # fail-closed: missing or non-matching verdict -> dropped
                 if v and bool(v.get("matches")):
                     survivors.append((p, str(v.get("reason", ""))))
     return survivors
 
 
 def domain_gate(pi: ResolvedPI, llm: LLM) -> tuple[bool, str]:
-    """Single-PI gate, kept for tests and one-off use. The pipeline uses the batch path."""
     sample_title = pi.in_area_works[0].get("title", "") if pi.in_area_works else ""
     topics = ", ".join(author_topic_names(pi.author_record)) or "(none)"
     user = (

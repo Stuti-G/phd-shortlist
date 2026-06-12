@@ -37,6 +37,7 @@ def resolve_pis(candidates: list[Candidate], oa: OpenAlex) -> list[ResolvedPI]:
         try:
             rec = oa.author(author_id)
         except Exception:
+            print(f"Failed to retrieve author record for {author_id}")
             continue  
         works_count = rec.get("works_count", 0)
         if works_count < MIN_WORKS:
